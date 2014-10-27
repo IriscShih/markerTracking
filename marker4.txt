@@ -1,0 +1,2894 @@
+Frame 
+Frame 2
+Frame 3
+Frame 4
+Frame 5
+Frame 6
+Frame 7
+Frame 8
+Frame 9
+Frame 10
+Frame 11
+Frame 12
+Frame 13
+Frame 14
+Frame 15
+Frame 16
+Frame 17
+Frame 18
+Frame 19
+Frame 20
+Frame 21
+Frame 22
+Frame 23
+Frame 24
+Frame 25
+Frame 26
+Frame 27
+Frame 28
+Frame 29
+Frame 30
+Frame 31
+Frame 32
+Frame 33
+Frame 34
+Frame 35
+Frame 36
+Frame 37
+Frame 38
+Frame 39
+Frame 40
+Frame 41
+Frame 42
+Frame 43
+Frame 44
+Frame 45
+Frame 46
+Frame 47
+Frame 48
+Frame 49
+Frame 50
+Frame 51
+Frame 52
+Frame 53
+Frame 54
+Frame 55
+Frame 56
+Frame 57
+Frame 58
+Frame 59
+Frame 60
+Frame 61
+Frame 62
+Frame 63
+Frame 64
+Frame 65
+Frame 66
+Frame 67
+Frame 68
+Frame 69
+Frame 70
+Frame 71
+Frame 72
+Frame 73
+Frame 74
+Frame 75
+Frame 76
+Frame 77
+Frame 78
+Frame 79
+Frame 80
+Frame 81
+Frame 82
+Frame 83
+Frame 84
+Frame 85
+Frame 86
+Frame 87
+Frame 88
+Frame 89
+Frame 90
+Frame 91
+Frame 92
+Frame 93
+Frame 94
+Frame 95
+Frame 96
+Frame 97
+Frame 98
+Frame 99
+Frame 100
+Frame 101
+Frame 102
+Frame 103
+Frame 104
+Frame 105
+Frame 106
+Frame 107
+Frame 108
+Frame 109
+Frame 110
+Frame 111
+Frame 112
+Frame 113
+Frame 114
+Frame 115
+Frame 116
+Frame 117
+Frame 118
+Frame 119
+Frame 120
+Frame 121
+Frame 122
+Frame 123
+Frame 124
+Frame 125
+Frame 126
+Frame 127
+Frame 128
+Frame 129
+Frame 130
+Frame 131
+Frame 132
+Frame 133
+Frame 134
+Frame 135
+Frame 136
+Frame 137
+Frame 138
+Frame 139
+Frame 140
+Frame 141
+Frame 142
+Frame 143
+Frame 144
+Frame 145
+Frame 146
+Frame 147
+Frame 148
+Frame 149
+Frame 150
+Frame 151
+Frame 152
+Frame 153
+Frame 154
+Frame 155
+Frame 156
+Frame 157
+Frame 158
+Frame 159
+Frame 160
+Frame 161
+Frame 162
+Frame 163
+Frame 164
+Frame 165
+Frame 166
+Frame 167
+Frame 168
+Frame 169
+Frame 170
+Frame 171
+Frame 172
+Frame 173
+Frame 174
+Frame 175
+Frame 176
+Frame 177
+Frame 178
+Frame 179
+Frame 180
+Frame 181
+Frame 182
+Frame 183
+Frame 184
+Frame 185
+Frame 186
+Frame 187
+Frame 188
+Frame 189
+Frame 190
+Frame 191
+Frame 192
+Frame 193
+Frame 194
+Frame 195
+Frame 196
+Frame 197
+Frame 198
+Frame 199
+Frame 200
+Frame 201
+Frame 202
+Frame 203
+Frame 204
+Frame 205
+Frame 206
+Frame 207
+Frame 208
+Frame 209
+Frame 210
+Frame 211
+Frame 212
+Frame 213
+Frame 214
+Frame 215
+Frame 216
+Frame 217
+Frame 218
+Frame 219
+Frame 220
+Frame 221
+Frame 222
+Frame 223
+Frame 224
+Frame 225
+Frame 226
+Frame 227
+Frame 228
+Frame 229
+Frame 230
+Frame 231
+Frame 232
+Frame 233
+Frame 234
+Frame 235
+Frame 236
+Frame 237
+Frame 238
+Frame 239
+Frame 240
+Frame 241
+Frame 242
+Frame 243
+Frame 244
+Frame 245
+Frame 246
+Frame 247
+Frame 248
+Frame 249
+Frame 250
+Frame 251
+Frame 252
+Frame 253
+Frame 254
+Frame 255
+Frame 256
+Frame 257
+Frame 258
+Frame 259
+Frame 260
+Frame 261
+Frame 262
+Frame 263
+Frame 264
+Frame 265
+Frame 266
+Frame 267
+Frame 268
+Frame 269
+Frame 270
+Frame 271
+Frame 272
+Frame 273
+Frame 274
+Frame 275
+Frame 276
+Frame 277
+Frame 278
+Frame 279
+Frame 280
+Frame 281
+Frame 282
+Frame 283
+Frame 284
+Frame 285
+Frame 286
+Frame 287
+Frame 288
+Frame 289
+Frame 290
+Frame 291
+Frame 292
+Frame 293
+Frame 294
+Frame 295
+Frame 296
+Frame 297
+Frame 298
+Frame 299
+Frame 300
+Frame 301
+Frame 302
+Frame 303
+Frame 304
+Frame 305
+Frame 306
+Frame 307
+Frame 308
+Frame 309
+Frame 310
+Frame 311
+Frame 312
+Frame 313
+Frame 314
+Frame 315
+Frame 316
+Frame 317
+Frame 318
+Frame 319
+Frame 320
+Frame 321
+Frame 322
+Frame 323
+Frame 324
+Frame 325
+Frame 326
+Frame 327
+Frame 328
+Frame 329
+Frame 330
+Frame 331
+Frame 332
+Frame 333
+Frame 334
+Frame 335
+Frame 336
+Frame 337
+Frame 338
+Frame 339
+Frame 340
+Frame 341
+Frame 342
+Frame 343
+Frame 344
+Frame 345
+Frame 346
+Frame 347
+Frame 348
+Frame 349
+Frame 350
+Frame 351
+Frame 352
+Frame 353
+Frame 354
+Frame 355
+Frame 356
+Frame 357
+Frame 358
+Frame 359
+Frame 360
+Frame 361
+Frame 362
+Frame 363
+Frame 364
+Frame 365
+Frame 366
+Frame 367
+Frame 368
+Frame 369
+Frame 370
+Frame 371
+Frame 372
+Frame 373
+Frame 374
+Frame 375
+Frame 376
+Frame 377
+Frame 378
+Frame 379
+Frame 380
+Frame 381
+Frame 382
+Frame 383
+Frame 384
+Frame 385
+Frame 386
+Frame 387
+Frame 388
+Frame 389
+Frame 390
+Frame 391
+Frame 392
+Frame 393
+Frame 394
+Frame 395
+Frame 396
+Frame 397
+Frame 398
+Frame 399
+Frame 400
+Frame 401
+Frame 402
+Frame 403
+Frame 404
+Frame 405
+Frame 406
+Frame 407
+Frame 408
+Frame 409
+Frame 410
+Frame 411
+Frame 412
+Frame 413
+Frame 414
+Frame 415
+Frame 416
+Frame 417
+Frame 418
+Frame 419
+Frame 420
+Frame 421
+Frame 422
+Frame 423
+Frame 424
+Frame 425
+Frame 426
+Frame 427
+Frame 428
+Frame 429
+Frame 430
+Frame 431
+Frame 432
+Frame 433
+Frame 434
+Frame 435
+Frame 436
+Frame 437
+Frame 438
+Frame 439
+Frame 440
+Frame 441
+Frame 442
+Frame 443
+Frame 444
+Frame 445
+Frame 446
+Frame 447
+Frame 448
+Frame 449
+Frame 450
+Frame 451
+Frame 452
+Frame 453
+Frame 454
+Frame 455
+Frame 456
+Frame 457
+Frame 458
+Frame 459
+Frame 460
+Frame 461
+Frame 462
+Frame 463
+Frame 464
+Frame 465
+Frame 466
+Frame 467
+Frame 468
+Frame 469
+Frame 470
+Frame 471
+Frame 472
+Frame 473
+Frame 474
+Frame 475
+Frame 476
+Frame 477
+Frame 478
+Frame 479
+Frame 480
+Frame 481
+Frame 482
+Frame 483
+Frame 484
+Frame 485
+Frame 486
+Frame 487
+Frame 488
+Frame 489
+Frame 490
+Frame 491
+Frame 492
+Frame 493
+Frame 494
+Frame 495
+Frame 496
+Frame 497
+Frame 498
+Frame 499
+Frame 500
+Frame 501
+Frame 502
+Frame 503
+Frame 504
+Frame 505
+Frame 506
+Frame 507
+Frame 508
+Frame 509
+Frame 510
+Frame 511
+Frame 512
+Frame 513
+Frame 514
+Frame 515
+Frame 516
+Frame 517
+Frame 518
+Frame 519
+Frame 520
+Frame 521
+Frame 522
+Frame 523
+Frame 524
+Frame 525
+Frame 526
+Frame 527
+Frame 528
+Frame 529
+Frame 530
+Frame 531
+Frame 532
+Frame 533
+Frame 534
+Frame 535
+Frame 536
+Frame 537
+Frame 538
+Frame 539
+Frame 540
+Frame 541
+Frame 542
+Frame 543
+Frame 544
+Frame 545
+Frame 546
+Frame 547
+Frame 548
+Frame 549
+Frame 550
+Frame 551
+Frame 552
+Frame 553
+Frame 554
+Frame 555
+Frame 556
+Frame 557
+Frame 558
+Frame 559
+Frame 560
+Frame 561
+Frame 562
+Frame 563
+Frame 564
+Frame 565
+Frame 566
+Frame 567
+Frame 568
+Frame 569
+Frame 570
+Frame 571
+Frame 572
+Frame 573
+Frame 574
+Frame 575
+Frame 576
+Frame 577
+Frame 578
+Frame 579
+Frame 580
+Frame 581
+Frame 582
+Frame 583
+Frame 584
+Frame 585
+Frame 586
+Frame 587
+Frame 588
+Frame 589
+Frame 590
+Frame 591
+Frame 592
+Frame 593
+Frame 594
+Frame 595
+Frame 596
+Frame 597
+Frame 598
+Frame 599
+Frame 600
+Frame 601
+Frame 602
+Frame 603
+Frame 604
+Frame 605
+Frame 606
+Frame 607
+Frame 608
+Frame 609
+Frame 610
+Frame 611
+Frame 612
+Frame 613
+Frame 614
+Frame 615
+Frame 616
+Frame 617
+Frame 618
+Frame 619
+Frame 620
+Frame 621
+Frame 622
+Frame 623
+Frame 624
+Frame 625
+Frame 626
+Frame 627
+Frame 628
+Frame 629
+Frame 630
+Frame 631
+Frame 632
+Frame 633
+Frame 634
+Frame 635
+Frame 636
+Frame 637
+Frame 638
+Frame 639
+Frame 640
+Frame 641
+Frame 642
+Frame 643
+Frame 644
+Frame 645
+Frame 646
+Frame 647
+Frame 648
+Frame 649
+Frame 650
+Frame 651
+Frame 652
+Frame 653
+Frame 654
+Frame 655
+Frame 656
+Frame 657
+Frame 658
+Frame 659
+Frame 660
+Frame 661
+Frame 662
+Frame 663
+Frame 664
+Frame 665
+Frame 666
+Frame 667
+Frame 668
+Frame 669
+Frame 670
+Frame 671
+Frame 672
+Frame 673
+Frame 674
+Frame 675
+Frame 676
+Frame 677
+Frame 678
+Frame 679
+Frame 680
+Frame 681
+Frame 682
+Frame 683
+Frame 684
+Frame 685
+Frame 686
+Frame 687
+Frame 688
+Frame 689
+Frame 690
+Frame 691
+Frame 692
+Frame 693
+Frame 694
+Frame 695
+Frame 696
+Frame 697
+Frame 698
+Frame 699
+Frame 700
+Frame 701
+Frame 702
+Frame 703
+Frame 704
+Frame 705
+Frame 706
+Frame 707
+Frame 708
+Frame 709
+Frame 710
+Frame 711
+Frame 712
+Frame 713
+Frame 714
+Frame 715
+Frame 716
+Frame 717
+Frame 718
+Frame 719
+Frame 720
+Frame 721
+Frame 722
+Frame 723
+Frame 724
+Frame 725
+Frame 726
+Frame 727
+Frame 728
+Frame 729
+Frame 730
+Frame 731
+Frame 732
+Frame 733
+Frame 734
+Frame 735
+Frame 736
+Frame 737
+Frame 738
+Frame 739
+Frame 740, 9278654 [649.99 448.01] [621.224 388.35] [623.951 347.238] [649.65 404.837]   
+Frame 741, 9278654 [648.325 447.82] [619.457 388.808] [622.206 347.28] [647.905 404.868]   
+Frame 742, 9278654 [646.874 447.994] [617.689 388.318] [620.43 346.785] [646.99 405.726]   
+Frame 743, 9278654 [645.002 447.345] [615.952 387.522] [619.14 346.902] [645.001 403.942]   
+Frame 744
+Frame 745, 9278654 [642.281 447.317] [612.92 387.874] [616.474 347.144] [643.098 405.661]   
+Frame 746
+Frame 747
+Frame 748, 9278654 [638.43 447.797] [608.721 388.093] [612.426 347.049] [639.091 405.12]   
+Frame 749
+Frame 750
+Frame 751
+Frame 752
+Frame 753
+Frame 754
+Frame 755, 9278654 [624.576 449.903] [593.7 390.044] [598.527 349.622] [625.439 406.926]   
+Frame 756
+Frame 757
+Frame 758
+Frame 759
+Frame 760
+Frame 761
+Frame 762
+Frame 763
+Frame 764
+Frame 765
+Frame 766
+Frame 767
+Frame 768
+Frame 769
+Frame 770
+Frame 771
+Frame 772
+Frame 773
+Frame 774
+Frame 775
+Frame 776
+Frame 777
+Frame 778
+Frame 779
+Frame 780
+Frame 781
+Frame 782
+Frame 783
+Frame 784
+Frame 785
+Frame 786
+Frame 787
+Frame 788
+Frame 789
+Frame 790
+Frame 791
+Frame 792
+Frame 793
+Frame 794
+Frame 795
+Frame 796
+Frame 797
+Frame 798
+Frame 799
+Frame 800
+Frame 801
+Frame 802
+Frame 803
+Frame 804
+Frame 805
+Frame 806
+Frame 807
+Frame 808
+Frame 809
+Frame 810
+Frame 811
+Frame 812
+Frame 813
+Frame 814
+Frame 815
+Frame 816
+Frame 817
+Frame 818
+Frame 819
+Frame 820
+Frame 821
+Frame 822
+Frame 823
+Frame 824
+Frame 825
+Frame 826
+Frame 827
+Frame 828
+Frame 829
+Frame 830
+Frame 831
+Frame 832
+Frame 833
+Frame 834
+Frame 835
+Frame 836
+Frame 837
+Frame 838
+Frame 839
+Frame 840
+Frame 841
+Frame 842
+Frame 843
+Frame 844
+Frame 845
+Frame 846
+Frame 847
+Frame 848
+Frame 849
+Frame 850
+Frame 851
+Frame 852
+Frame 853
+Frame 854
+Frame 855
+Frame 856
+Frame 857
+Frame 858
+Frame 859
+Frame 860
+Frame 861
+Frame 862
+Frame 863
+Frame 864
+Frame 865
+Frame 866
+Frame 867
+Frame 868
+Frame 869
+Frame 870
+Frame 871
+Frame 872
+Frame 873
+Frame 874
+Frame 875
+Frame 876
+Frame 877
+Frame 878
+Frame 879
+Frame 880
+Frame 881
+Frame 882
+Frame 883
+Frame 884
+Frame 885
+Frame 886
+Frame 887
+Frame 888
+Frame 889
+Frame 890
+Frame 891
+Frame 892
+Frame 893
+Frame 894
+Frame 895
+Frame 896
+Frame 897
+Frame 898
+Frame 899
+Frame 900
+Frame 901
+Frame 902
+Frame 903
+Frame 904
+Frame 905
+Frame 906
+Frame 907
+Frame 908
+Frame 909
+Frame 910
+Frame 911
+Frame 912
+Frame 913
+Frame 914
+Frame 915
+Frame 916
+Frame 917
+Frame 918
+Frame 919
+Frame 920
+Frame 921
+Frame 922
+Frame 923
+Frame 924
+Frame 925
+Frame 926
+Frame 927
+Frame 928
+Frame 929
+Frame 930
+Frame 931
+Frame 932
+Frame 933
+Frame 934
+Frame 935
+Frame 936
+Frame 937
+Frame 938
+Frame 939
+Frame 940
+Frame 941
+Frame 942
+Frame 943
+Frame 944
+Frame 945
+Frame 946
+Frame 947
+Frame 948
+Frame 949
+Frame 950
+Frame 951
+Frame 952
+Frame 953
+Frame 954
+Frame 955
+Frame 956
+Frame 957
+Frame 958
+Frame 959
+Frame 960
+Frame 961
+Frame 962
+Frame 963
+Frame 964
+Frame 965
+Frame 966
+Frame 967
+Frame 968
+Frame 969
+Frame 970
+Frame 971
+Frame 972
+Frame 973
+Frame 974
+Frame 975
+Frame 976
+Frame 977
+Frame 978
+Frame 979
+Frame 980
+Frame 981
+Frame 982
+Frame 983
+Frame 984
+Frame 985
+Frame 986
+Frame 987
+Frame 988
+Frame 989
+Frame 990
+Frame 991
+Frame 992
+Frame 993
+Frame 994
+Frame 995
+Frame 996
+Frame 997
+Frame 998
+Frame 999
+Frame 1000
+Frame 1001
+Frame 1002
+Frame 1003
+Frame 1004
+Frame 1005
+Frame 1006
+Frame 1007
+Frame 1008
+Frame 1009
+Frame 1010
+Frame 1011
+Frame 1012
+Frame 1013
+Frame 1014
+Frame 1015
+Frame 1016
+Frame 1017
+Frame 1018
+Frame 1019
+Frame 1020
+Frame 1021
+Frame 1022
+Frame 1023
+Frame 1024
+Frame 1025
+Frame 1026
+Frame 1027
+Frame 1028
+Frame 1029
+Frame 1030
+Frame 1031
+Frame 1032
+Frame 1033
+Frame 1034
+Frame 1035
+Frame 1036
+Frame 1037
+Frame 1038
+Frame 1039
+Frame 1040
+Frame 1041
+Frame 1042
+Frame 1043
+Frame 1044
+Frame 1045
+Frame 1046
+Frame 1047
+Frame 1048
+Frame 1049
+Frame 1050
+Frame 1051
+Frame 1052
+Frame 1053
+Frame 1054
+Frame 1055
+Frame 1056
+Frame 1057
+Frame 1058
+Frame 1059
+Frame 1060
+Frame 1061
+Frame 1062
+Frame 1063
+Frame 1064
+Frame 1065
+Frame 1066
+Frame 1067
+Frame 1068
+Frame 1069
+Frame 1070
+Frame 1071
+Frame 1072
+Frame 1073
+Frame 1074
+Frame 1075
+Frame 1076
+Frame 1077
+Frame 1078
+Frame 1079
+Frame 1080
+Frame 1081
+Frame 1082
+Frame 1083
+Frame 1084
+Frame 1085
+Frame 1086
+Frame 1087
+Frame 1088
+Frame 1089
+Frame 1090
+Frame 1091
+Frame 1092
+Frame 1093
+Frame 1094
+Frame 1095
+Frame 1096
+Frame 1097
+Frame 1098
+Frame 1099
+Frame 1100
+Frame 1101
+Frame 1102
+Frame 1103
+Frame 1104
+Frame 1105
+Frame 1106
+Frame 1107
+Frame 1108
+Frame 1109
+Frame 1110
+Frame 1111
+Frame 1112
+Frame 1113
+Frame 1114
+Frame 1115
+Frame 1116
+Frame 1117
+Frame 1118
+Frame 1119
+Frame 1120
+Frame 1121
+Frame 1122
+Frame 1123
+Frame 1124
+Frame 1125
+Frame 1126
+Frame 1127
+Frame 1128
+Frame 1129
+Frame 1130
+Frame 1131
+Frame 1132
+Frame 1133
+Frame 1134
+Frame 1135
+Frame 1136
+Frame 1137
+Frame 1138
+Frame 1139
+Frame 1140
+Frame 1141
+Frame 1142
+Frame 1143
+Frame 1144
+Frame 1145
+Frame 1146
+Frame 1147
+Frame 1148
+Frame 1149
+Frame 1150
+Frame 1151
+Frame 1152
+Frame 1153
+Frame 1154
+Frame 1155
+Frame 1156
+Frame 1157
+Frame 1158
+Frame 1159
+Frame 1160
+Frame 1161
+Frame 1162
+Frame 1163
+Frame 1164
+Frame 1165
+Frame 1166
+Frame 1167
+Frame 1168
+Frame 1169
+Frame 1170
+Frame 1171
+Frame 1172
+Frame 1173
+Frame 1174
+Frame 1175
+Frame 1176
+Frame 1177
+Frame 1178
+Frame 1179
+Frame 1180
+Frame 1181
+Frame 1182
+Frame 1183
+Frame 1184
+Frame 1185
+Frame 1186
+Frame 1187
+Frame 1188
+Frame 1189
+Frame 1190
+Frame 1191
+Frame 1192
+Frame 1193
+Frame 1194
+Frame 1195
+Frame 1196
+Frame 1197
+Frame 1198
+Frame 1199
+Frame 1200
+Frame 1201
+Frame 1202
+Frame 1203
+Frame 1204
+Frame 1205
+Frame 1206
+Frame 1207
+Frame 1208
+Frame 1209
+Frame 1210
+Frame 1211
+Frame 1212
+Frame 1213
+Frame 1214
+Frame 1215
+Frame 1216
+Frame 1217
+Frame 1218
+Frame 1219
+Frame 1220
+Frame 1221
+Frame 1222
+Frame 1223
+Frame 1224
+Frame 1225
+Frame 1226
+Frame 1227
+Frame 1228
+Frame 1229
+Frame 1230
+Frame 1231
+Frame 1232
+Frame 1233
+Frame 1234
+Frame 1235
+Frame 1236
+Frame 1237
+Frame 1238
+Frame 1239
+Frame 1240
+Frame 1241
+Frame 1242
+Frame 1243
+Frame 1244
+Frame 1245
+Frame 1246
+Frame 1247
+Frame 1248
+Frame 1249
+Frame 1250
+Frame 1251
+Frame 1252
+Frame 1253
+Frame 1254
+Frame 1255
+Frame 1256
+Frame 1257
+Frame 1258
+Frame 1259
+Frame 1260
+Frame 1261
+Frame 1262
+Frame 1263
+Frame 1264
+Frame 1265
+Frame 1266
+Frame 1267
+Frame 1268
+Frame 1269
+Frame 1270
+Frame 1271
+Frame 1272
+Frame 1273
+Frame 1274
+Frame 1275
+Frame 1276
+Frame 1277
+Frame 1278
+Frame 1279
+Frame 1280
+Frame 1281
+Frame 1282
+Frame 1283
+Frame 1284
+Frame 1285
+Frame 1286
+Frame 1287
+Frame 1288
+Frame 1289
+Frame 1290
+Frame 1291
+Frame 1292
+Frame 1293
+Frame 1294
+Frame 1295
+Frame 1296
+Frame 1297
+Frame 1298
+Frame 1299
+Frame 1300
+Frame 1301
+Frame 1302
+Frame 1303
+Frame 1304
+Frame 1305
+Frame 1306
+Frame 1307
+Frame 1308
+Frame 1309
+Frame 1310
+Frame 1311
+Frame 1312
+Frame 1313
+Frame 1314
+Frame 1315
+Frame 1316
+Frame 1317
+Frame 1318
+Frame 1319
+Frame 1320
+Frame 1321
+Frame 1322
+Frame 1323
+Frame 1324
+Frame 1325
+Frame 1326
+Frame 1327
+Frame 1328
+Frame 1329
+Frame 1330
+Frame 1331
+Frame 1332
+Frame 1333
+Frame 1334
+Frame 1335
+Frame 1336
+Frame 1337
+Frame 1338
+Frame 1339
+Frame 1340
+Frame 1341
+Frame 1342
+Frame 1343
+Frame 1344
+Frame 1345
+Frame 1346
+Frame 1347
+Frame 1348
+Frame 1349
+Frame 1350
+Frame 1351
+Frame 1352
+Frame 1353
+Frame 1354
+Frame 1355
+Frame 1356
+Frame 1357
+Frame 1358
+Frame 1359
+Frame 1360
+Frame 1361
+Frame 1362
+Frame 1363
+Frame 1364
+Frame 1365
+Frame 1366
+Frame 1367
+Frame 1368
+Frame 1369
+Frame 1370
+Frame 1371
+Frame 1372
+Frame 1373
+Frame 1374
+Frame 1375
+Frame 1376
+Frame 1377
+Frame 1378
+Frame 1379
+Frame 1380
+Frame 1381
+Frame 1382
+Frame 1383
+Frame 1384
+Frame 1385
+Frame 1386
+Frame 1387
+Frame 1388
+Frame 1389
+Frame 1390
+Frame 1391
+Frame 1392
+Frame 1393
+Frame 1394
+Frame 1395
+Frame 1396
+Frame 1397
+Frame 1398
+Frame 1399
+Frame 1400
+Frame 1401
+Frame 1402
+Frame 1403
+Frame 1404
+Frame 1405
+Frame 1406
+Frame 1407
+Frame 1408
+Frame 1409
+Frame 1410
+Frame 1411
+Frame 1412
+Frame 1413
+Frame 1414
+Frame 1415
+Frame 1416
+Frame 1417
+Frame 1418
+Frame 1419
+Frame 1420
+Frame 1421
+Frame 1422
+Frame 1423
+Frame 1424
+Frame 1425
+Frame 1426
+Frame 1427
+Frame 1428
+Frame 1429
+Frame 1430
+Frame 1431
+Frame 1432
+Frame 1433
+Frame 1434
+Frame 1435
+Frame 1436
+Frame 1437
+Frame 1438
+Frame 1439
+Frame 1440
+Frame 1441
+Frame 1442
+Frame 1443
+Frame 1444
+Frame 1445
+Frame 1446
+Frame 1447
+Frame 1448
+Frame 1449
+Frame 1450
+Frame 1451
+Frame 1452
+Frame 1453
+Frame 1454
+Frame 1455
+Frame 1456
+Frame 1457
+Frame 1458
+Frame 1459
+Frame 1460
+Frame 1461
+Frame 1462
+Frame 1463
+Frame 1464
+Frame 1465
+Frame 1466
+Frame 1467
+Frame 1468
+Frame 1469
+Frame 1470
+Frame 1471
+Frame 1472
+Frame 1473
+Frame 1474
+Frame 1475
+Frame 1476
+Frame 1477
+Frame 1478
+Frame 1479
+Frame 1480
+Frame 1481
+Frame 1482
+Frame 1483
+Frame 1484
+Frame 1485
+Frame 1486
+Frame 1487
+Frame 1488
+Frame 1489
+Frame 1490
+Frame 1491
+Frame 1492
+Frame 1493
+Frame 1494
+Frame 1495
+Frame 1496
+Frame 1497
+Frame 1498
+Frame 1499
+Frame 1500
+Frame 1501
+Frame 1502
+Frame 1503
+Frame 1504
+Frame 1505
+Frame 1506
+Frame 1507
+Frame 1508
+Frame 1509
+Frame 1510
+Frame 1511
+Frame 1512
+Frame 1513
+Frame 1514
+Frame 1515
+Frame 1516
+Frame 1517
+Frame 1518
+Frame 1519
+Frame 1520
+Frame 1521
+Frame 1522
+Frame 1523
+Frame 1524
+Frame 1525
+Frame 1526
+Frame 1527
+Frame 1528
+Frame 1529
+Frame 1530
+Frame 1531
+Frame 1532
+Frame 1533
+Frame 1534
+Frame 1535
+Frame 1536
+Frame 1537
+Frame 1538
+Frame 1539
+Frame 1540
+Frame 1541
+Frame 1542
+Frame 1543
+Frame 1544
+Frame 1545
+Frame 1546
+Frame 1547
+Frame 1548
+Frame 1549
+Frame 1550
+Frame 1551
+Frame 1552
+Frame 1553
+Frame 1554
+Frame 1555
+Frame 1556
+Frame 1557
+Frame 1558
+Frame 1559
+Frame 1560
+Frame 1561
+Frame 1562
+Frame 1563
+Frame 1564
+Frame 1565
+Frame 1566
+Frame 1567
+Frame 1568
+Frame 1569
+Frame 1570
+Frame 1571
+Frame 1572
+Frame 1573
+Frame 1574
+Frame 1575
+Frame 1576
+Frame 1577
+Frame 1578
+Frame 1579
+Frame 1580
+Frame 1581
+Frame 1582
+Frame 1583
+Frame 1584
+Frame 1585
+Frame 1586
+Frame 1587
+Frame 1588
+Frame 1589
+Frame 1590
+Frame 1591
+Frame 1592
+Frame 1593
+Frame 1594
+Frame 1595
+Frame 1596
+Frame 1597
+Frame 1598
+Frame 1599
+Frame 1600
+Frame 1601
+Frame 1602
+Frame 1603
+Frame 1604
+Frame 1605
+Frame 1606
+Frame 1607
+Frame 1608
+Frame 1609
+Frame 1610
+Frame 1611
+Frame 1612
+Frame 1613
+Frame 1614
+Frame 1615
+Frame 1616
+Frame 1617
+Frame 1618
+Frame 1619
+Frame 1620
+Frame 1621
+Frame 1622
+Frame 1623
+Frame 1624
+Frame 1625
+Frame 1626
+Frame 1627
+Frame 1628
+Frame 1629
+Frame 1630
+Frame 1631
+Frame 1632
+Frame 1633
+Frame 1634
+Frame 1635
+Frame 1636
+Frame 1637
+Frame 1638
+Frame 1639
+Frame 1640
+Frame 1641
+Frame 1642
+Frame 1643
+Frame 1644
+Frame 1645
+Frame 1646
+Frame 1647
+Frame 1648
+Frame 1649
+Frame 1650
+Frame 1651
+Frame 1652
+Frame 1653
+Frame 1654
+Frame 1655
+Frame 1656
+Frame 1657
+Frame 1658
+Frame 1659
+Frame 1660
+Frame 1661
+Frame 1662
+Frame 1663
+Frame 1664
+Frame 1665
+Frame 1666
+Frame 1667
+Frame 1668
+Frame 1669
+Frame 1670
+Frame 1671
+Frame 1672
+Frame 1673
+Frame 1674
+Frame 1675
+Frame 1676
+Frame 1677
+Frame 1678
+Frame 1679
+Frame 1680
+Frame 1681
+Frame 1682
+Frame 1683
+Frame 1684
+Frame 1685
+Frame 1686
+Frame 1687
+Frame 1688
+Frame 1689
+Frame 1690
+Frame 1691
+Frame 1692
+Frame 1693
+Frame 1694
+Frame 1695
+Frame 1696
+Frame 1697
+Frame 1698
+Frame 1699
+Frame 1700
+Frame 1701
+Frame 1702
+Frame 1703
+Frame 1704
+Frame 1705
+Frame 1706
+Frame 1707
+Frame 1708
+Frame 1709
+Frame 1710
+Frame 1711
+Frame 1712
+Frame 1713
+Frame 1714
+Frame 1715
+Frame 1716
+Frame 1717
+Frame 1718
+Frame 1719
+Frame 1720
+Frame 1721
+Frame 1722
+Frame 1723
+Frame 1724
+Frame 1725
+Frame 1726
+Frame 1727
+Frame 1728
+Frame 1729
+Frame 1730
+Frame 1731
+Frame 1732
+Frame 1733
+Frame 1734
+Frame 1735
+Frame 1736
+Frame 1737
+Frame 1738
+Frame 1739
+Frame 1740
+Frame 1741
+Frame 1742
+Frame 1743
+Frame 1744
+Frame 1745
+Frame 1746
+Frame 1747
+Frame 1748
+Frame 1749
+Frame 1750
+Frame 1751
+Frame 1752
+Frame 1753
+Frame 1754
+Frame 1755
+Frame 1756
+Frame 1757
+Frame 1758
+Frame 1759
+Frame 1760
+Frame 1761
+Frame 1762
+Frame 1763
+Frame 1764
+Frame 1765
+Frame 1766
+Frame 1767
+Frame 1768
+Frame 1769
+Frame 1770
+Frame 1771
+Frame 1772
+Frame 1773
+Frame 1774
+Frame 1775
+Frame 1776
+Frame 1777
+Frame 1778
+Frame 1779
+Frame 1780
+Frame 1781
+Frame 1782
+Frame 1783
+Frame 1784
+Frame 1785
+Frame 1786
+Frame 1787
+Frame 1788
+Frame 1789
+Frame 1790
+Frame 1791
+Frame 1792
+Frame 1793
+Frame 1794
+Frame 1795
+Frame 1796
+Frame 1797
+Frame 1798
+Frame 1799
+Frame 1800
+Frame 1801
+Frame 1802
+Frame 1803
+Frame 1804
+Frame 1805
+Frame 1806
+Frame 1807
+Frame 1808
+Frame 1809
+Frame 1810
+Frame 1811
+Frame 1812
+Frame 1813
+Frame 1814
+Frame 1815
+Frame 1816
+Frame 1817
+Frame 1818
+Frame 1819
+Frame 1820
+Frame 1821
+Frame 1822
+Frame 1823
+Frame 1824
+Frame 1825
+Frame 1826
+Frame 1827
+Frame 1828
+Frame 1829
+Frame 1830
+Frame 1831
+Frame 1832
+Frame 1833
+Frame 1834
+Frame 1835
+Frame 1836
+Frame 1837
+Frame 1838
+Frame 1839
+Frame 1840
+Frame 1841
+Frame 1842
+Frame 1843
+Frame 1844
+Frame 1845
+Frame 1846
+Frame 1847
+Frame 1848
+Frame 1849
+Frame 1850
+Frame 1851
+Frame 1852
+Frame 1853
+Frame 1854
+Frame 1855
+Frame 1856
+Frame 1857
+Frame 1858
+Frame 1859
+Frame 1860
+Frame 1861
+Frame 1862
+Frame 1863
+Frame 1864
+Frame 1865
+Frame 1866
+Frame 1867
+Frame 1868
+Frame 1869
+Frame 1870
+Frame 1871
+Frame 1872
+Frame 1873
+Frame 1874
+Frame 1875
+Frame 1876
+Frame 1877
+Frame 1878
+Frame 1879
+Frame 1880
+Frame 1881
+Frame 1882
+Frame 1883
+Frame 1884
+Frame 1885
+Frame 1886
+Frame 1887
+Frame 1888
+Frame 1889
+Frame 1890
+Frame 1891
+Frame 1892
+Frame 1893
+Frame 1894
+Frame 1895
+Frame 1896
+Frame 1897
+Frame 1898
+Frame 1899
+Frame 1900
+Frame 1901
+Frame 1902
+Frame 1903
+Frame 1904
+Frame 1905
+Frame 1906
+Frame 1907
+Frame 1908
+Frame 1909
+Frame 1910
+Frame 1911
+Frame 1912
+Frame 1913
+Frame 1914
+Frame 1915
+Frame 1916
+Frame 1917
+Frame 1918
+Frame 1919
+Frame 1920
+Frame 1921
+Frame 1922
+Frame 1923
+Frame 1924
+Frame 1925
+Frame 1926
+Frame 1927
+Frame 1928
+Frame 1929
+Frame 1930
+Frame 1931
+Frame 1932
+Frame 1933
+Frame 1934
+Frame 1935
+Frame 1936
+Frame 1937
+Frame 1938
+Frame 1939
+Frame 1940
+Frame 1941
+Frame 1942
+Frame 1943
+Frame 1944
+Frame 1945
+Frame 1946
+Frame 1947
+Frame 1948
+Frame 1949
+Frame 1950
+Frame 1951
+Frame 1952
+Frame 1953
+Frame 1954
+Frame 1955
+Frame 1956
+Frame 1957
+Frame 1958
+Frame 1959
+Frame 1960
+Frame 1961
+Frame 1962
+Frame 1963
+Frame 1964
+Frame 1965
+Frame 1966
+Frame 1967
+Frame 1968
+Frame 1969
+Frame 1970
+Frame 1971
+Frame 1972
+Frame 1973
+Frame 1974
+Frame 1975
+Frame 1976
+Frame 1977
+Frame 1978
+Frame 1979
+Frame 1980
+Frame 1981
+Frame 1982
+Frame 1983
+Frame 1984
+Frame 1985
+Frame 1986
+Frame 1987
+Frame 1988
+Frame 1989
+Frame 1990
+Frame 1991
+Frame 1992
+Frame 1993
+Frame 1994
+Frame 1995
+Frame 1996
+Frame 1997
+Frame 1998
+Frame 1999
+Frame 2000
+Frame 2001
+Frame 2002
+Frame 2003
+Frame 2004
+Frame 2005
+Frame 2006
+Frame 2007
+Frame 2008
+Frame 2009
+Frame 2010
+Frame 2011
+Frame 2012
+Frame 2013
+Frame 2014
+Frame 2015
+Frame 2016
+Frame 2017
+Frame 2018
+Frame 2019
+Frame 2020
+Frame 2021
+Frame 2022
+Frame 2023
+Frame 2024
+Frame 2025
+Frame 2026
+Frame 2027
+Frame 2028
+Frame 2029
+Frame 2030
+Frame 2031
+Frame 2032
+Frame 2033
+Frame 2034
+Frame 2035
+Frame 2036
+Frame 2037
+Frame 2038
+Frame 2039
+Frame 2040
+Frame 2041
+Frame 2042
+Frame 2043
+Frame 2044
+Frame 2045
+Frame 2046
+Frame 2047
+Frame 2048
+Frame 2049
+Frame 2050
+Frame 2051
+Frame 2052
+Frame 2053
+Frame 2054
+Frame 2055
+Frame 2056
+Frame 2057
+Frame 2058
+Frame 2059
+Frame 2060
+Frame 2061
+Frame 2062
+Frame 2063
+Frame 2064
+Frame 2065
+Frame 2066
+Frame 2067
+Frame 2068
+Frame 2069
+Frame 2070
+Frame 2071
+Frame 2072
+Frame 2073
+Frame 2074
+Frame 2075
+Frame 2076
+Frame 2077
+Frame 2078
+Frame 2079
+Frame 2080
+Frame 2081
+Frame 2082
+Frame 2083
+Frame 2084
+Frame 2085
+Frame 2086
+Frame 2087
+Frame 2088
+Frame 2089
+Frame 2090
+Frame 2091
+Frame 2092
+Frame 2093
+Frame 2094
+Frame 2095
+Frame 2096
+Frame 2097
+Frame 2098
+Frame 2099
+Frame 2100
+Frame 2101
+Frame 2102
+Frame 2103
+Frame 2104
+Frame 2105
+Frame 2106
+Frame 2107
+Frame 2108
+Frame 2109
+Frame 2110
+Frame 2111
+Frame 2112
+Frame 2113
+Frame 2114
+Frame 2115
+Frame 2116
+Frame 2117
+Frame 2118
+Frame 2119
+Frame 2120
+Frame 2121
+Frame 2122
+Frame 2123
+Frame 2124
+Frame 2125
+Frame 2126
+Frame 2127
+Frame 2128
+Frame 2129
+Frame 2130
+Frame 2131
+Frame 2132
+Frame 2133
+Frame 2134
+Frame 2135
+Frame 2136
+Frame 2137
+Frame 2138
+Frame 2139
+Frame 2140
+Frame 2141
+Frame 2142
+Frame 2143
+Frame 2144
+Frame 2145
+Frame 2146
+Frame 2147
+Frame 2148
+Frame 2149
+Frame 2150
+Frame 2151
+Frame 2152
+Frame 2153
+Frame 2154
+Frame 2155
+Frame 2156
+Frame 2157
+Frame 2158
+Frame 2159
+Frame 2160
+Frame 2161
+Frame 2162
+Frame 2163
+Frame 2164
+Frame 2165
+Frame 2166
+Frame 2167
+Frame 2168
+Frame 2169
+Frame 2170
+Frame 2171
+Frame 2172
+Frame 2173
+Frame 2174
+Frame 2175
+Frame 2176
+Frame 2177
+Frame 2178
+Frame 2179
+Frame 2180
+Frame 2181
+Frame 2182
+Frame 2183
+Frame 2184
+Frame 2185
+Frame 2186
+Frame 2187
+Frame 2188
+Frame 2189
+Frame 2190
+Frame 2191
+Frame 2192
+Frame 2193
+Frame 2194
+Frame 2195
+Frame 2196
+Frame 2197
+Frame 2198
+Frame 2199
+Frame 2200
+Frame 2201
+Frame 2202
+Frame 2203
+Frame 2204
+Frame 2205
+Frame 2206
+Frame 2207
+Frame 2208
+Frame 2209
+Frame 2210
+Frame 2211
+Frame 2212
+Frame 2213
+Frame 2214
+Frame 2215
+Frame 2216
+Frame 2217
+Frame 2218
+Frame 2219
+Frame 2220
+Frame 2221
+Frame 2222
+Frame 2223
+Frame 2224
+Frame 2225
+Frame 2226
+Frame 2227
+Frame 2228
+Frame 2229
+Frame 2230
+Frame 2231
+Frame 2232
+Frame 2233
+Frame 2234
+Frame 2235
+Frame 2236
+Frame 2237
+Frame 2238
+Frame 2239
+Frame 2240
+Frame 2241
+Frame 2242
+Frame 2243
+Frame 2244
+Frame 2245
+Frame 2246
+Frame 2247
+Frame 2248
+Frame 2249
+Frame 2250
+Frame 2251
+Frame 2252
+Frame 2253
+Frame 2254
+Frame 2255
+Frame 2256
+Frame 2257
+Frame 2258
+Frame 2259
+Frame 2260
+Frame 2261
+Frame 2262
+Frame 2263
+Frame 2264
+Frame 2265
+Frame 2266
+Frame 2267
+Frame 2268
+Frame 2269
+Frame 2270
+Frame 2271
+Frame 2272
+Frame 2273
+Frame 2274
+Frame 2275
+Frame 2276
+Frame 2277
+Frame 2278
+Frame 2279
+Frame 2280
+Frame 2281
+Frame 2282
+Frame 2283
+Frame 2284
+Frame 2285
+Frame 2286
+Frame 2287
+Frame 2288
+Frame 2289
+Frame 2290
+Frame 2291
+Frame 2292
+Frame 2293
+Frame 2294
+Frame 2295
+Frame 2296
+Frame 2297
+Frame 2298
+Frame 2299
+Frame 2300
+Frame 2301
+Frame 2302
+Frame 2303
+Frame 2304
+Frame 2305
+Frame 2306
+Frame 2307
+Frame 2308
+Frame 2309
+Frame 2310
+Frame 2311
+Frame 2312
+Frame 2313
+Frame 2314
+Frame 2315
+Frame 2316
+Frame 2317
+Frame 2318
+Frame 2319
+Frame 2320
+Frame 2321
+Frame 2322
+Frame 2323
+Frame 2324
+Frame 2325
+Frame 2326
+Frame 2327
+Frame 2328
+Frame 2329
+Frame 2330
+Frame 2331
+Frame 2332
+Frame 2333
+Frame 2334
+Frame 2335
+Frame 2336
+Frame 2337
+Frame 2338
+Frame 2339
+Frame 2340
+Frame 2341
+Frame 2342
+Frame 2343
+Frame 2344
+Frame 2345
+Frame 2346
+Frame 2347
+Frame 2348
+Frame 2349
+Frame 2350
+Frame 2351
+Frame 2352
+Frame 2353
+Frame 2354
+Frame 2355
+Frame 2356
+Frame 2357
+Frame 2358
+Frame 2359
+Frame 2360
+Frame 2361
+Frame 2362
+Frame 2363
+Frame 2364
+Frame 2365
+Frame 2366
+Frame 2367
+Frame 2368
+Frame 2369
+Frame 2370
+Frame 2371
+Frame 2372
+Frame 2373
+Frame 2374
+Frame 2375
+Frame 2376
+Frame 2377
+Frame 2378
+Frame 2379
+Frame 2380
+Frame 2381
+Frame 2382
+Frame 2383
+Frame 2384
+Frame 2385
+Frame 2386
+Frame 2387
+Frame 2388
+Frame 2389
+Frame 2390
+Frame 2391
+Frame 2392
+Frame 2393
+Frame 2394
+Frame 2395
+Frame 2396
+Frame 2397
+Frame 2398
+Frame 2399
+Frame 2400
+Frame 2401
+Frame 2402
+Frame 2403
+Frame 2404
+Frame 2405
+Frame 2406
+Frame 2407
+Frame 2408
+Frame 2409
+Frame 2410
+Frame 2411
+Frame 2412
+Frame 2413
+Frame 2414
+Frame 2415
+Frame 2416
+Frame 2417
+Frame 2418
+Frame 2419
+Frame 2420
+Frame 2421
+Frame 2422
+Frame 2423
+Frame 2424
+Frame 2425
+Frame 2426
+Frame 2427
+Frame 2428
+Frame 2429
+Frame 2430
+Frame 2431
+Frame 2432
+Frame 2433
+Frame 2434
+Frame 2435
+Frame 2436
+Frame 2437
+Frame 2438
+Frame 2439
+Frame 2440
+Frame 2441
+Frame 2442
+Frame 2443
+Frame 2444
+Frame 2445
+Frame 2446
+Frame 2447
+Frame 2448
+Frame 2449
+Frame 2450
+Frame 2451
+Frame 2452
+Frame 2453
+Frame 2454
+Frame 2455
+Frame 2456
+Frame 2457
+Frame 2458
+Frame 2459
+Frame 2460
+Frame 2461
+Frame 2462
+Frame 2463
+Frame 2464
+Frame 2465
+Frame 2466
+Frame 2467
+Frame 2468
+Frame 2469
+Frame 2470
+Frame 2471
+Frame 2472
+Frame 2473
+Frame 2474
+Frame 2475
+Frame 2476
+Frame 2477
+Frame 2478
+Frame 2479
+Frame 2480
+Frame 2481
+Frame 2482
+Frame 2483
+Frame 2484
+Frame 2485
+Frame 2486
+Frame 2487
+Frame 2488
+Frame 2489
+Frame 2490
+Frame 2491, 9278654 [873.81 366.779] [852.36 343.673] [854.077 204.123] [875.64 249.9]   
+Frame 2492
+Frame 2493, 9278654 [868.977 365.328] [846.796 341.101] [848.706 202.606] [871.212 248.391]  
+Frame 2494, 9278654 [866.645 364.687] [843.783 340.451] [845.94 202.326] [868.931 248.682]   
+Frame 2495, 9278654 [864.011 364.229] [840.582 339.393] [842.857 201.294] [866.471 248.374]  
+Frame 2496, 9278654 [861.333 363.449] [837.707 339.721] [839.909 201.435] [863.556 247.106]  
+Frame 2497, 9278654 [858.699 363.293] [834.354 338.166] [837.06 201.086] [861.151 247.835]   
+Frame 2498, 9278654 [855.355 362.774] [831.267 338.329] [833.604 201.16] [857.646 246.631]   
+Frame 2499, 9278654 [852.145 362.666] [827.503 337.906] [829.689 200.221] [854.67 247.668]   
+Frame 2500, 9278654 [848.809 362.098] [823.646 337.814] [826.008 200.372] [851.304 247.279]  
+Frame 2501, 9278654 [846.648 362.753] [820.232 337.139] [822.844 200.456] [848.731 247.411]  
+Frame 2502, 9278654 [844.372 362.825] [817.656 337.487] [820.291 200.379] [846.604 247.733]  
+Frame 2503, 9278654 [842.484 362.737] [815.372 337.181] [818.04 200.408] [844.665 247.59]   
+Frame 2504, 9278654 [840.409 361.852] [813.044 336.82] [815.996 200.107] [843.251 247.914]   
+Frame 2505, 9278654 [838.694 362.15] [810.909 335.727] [814.055 199.613] [841.308 246.85]   
+Frame 2506, 9278654 [837.594 361.026] [809.481 335.499] [812.283 198.638] [840.232 246.443]  
+Frame 2507, 9278654 [836.561 360.808] [807.966 334.349] [811.13 197.978] [839.289 245.684]   
+Frame 2508, 9278654 [835.903 360.473] [806.772 333.941] [810.187 197.445] [838.412 244.789]  
+Frame 2509, 9278654 [835.361 360.065] [805.836 333.875] [809.736 197.407] [838.292 245.003]  
+Frame 2510, 9278654 [834.886 360.259] [805.33 333.596] [808.95 196.894] [837.696 244.128]   
+Frame 2511, 9278654 [834.524 360.066] [804.158 333.463] [808.352 196.906] [837.291 244.256]  
+Frame 2512, 9278654 [833.656 360.187] [803.184 333.582] [807.157 196.371] [836.462 244.338]  
+Frame 2513, 9278654 [832.667 359.994] [801.811 332.909] [806.233 196.195] [835.38 243.739]   
+Frame 2514, 9278654 [831.685 359.412] [800.851 332.988] [805.012 195.557] [835.361 244.587]  
+Frame 2515, 9278654 [830.721 359.255] [799.833 332.4] [804.274 194.96] [834.413 243.685]   
+Frame 2516, 9278654 [830.721 358.703] [799.436 331.694] [803.949 194.346] [833.636 242.103]  
+Frame 2517, 9278654 [832.129 358.65] [800.87 331.128] [805.364 193.735] [835.366 242.428]   
+Frame 2518, 9278654 [832.896 358.12] [801.842 330.716] [806.4 192.973] [836.71 242.048]   
+Frame 2519, 9278654 [833.83 357.711] [802.219 330.276] [807.192 192.632] [837.426 241.479]   
+Frame 2520, 9278654 [834.393 357.944] [802.562 329.911] [807.974 192.766] [837.642 240.665]  
+Frame 2521, 9278654 [834.345 357.873] [802.587 329.898] [808.053 192.709] [837.777 240.646]  
+Frame 2522, 9278654 [833.707 357.302] [801.877 329.478] [807.303 191.928] [837.468 240.945]  
+Frame 2523, 9278654 [833.352 357.063] [801.733 329.313] [806.859 191.462] [837.514 241.246]  
+Frame 2524, 9278654 [833.765 357.145] [801.733 329.016] [807.171 191.713] [837.453 240.463]  
+Frame 2525, 9278654 [833.266 356.733] [801.442 328.663] [806.937 191.531] [837.53 240.78]   
+Frame 2526, 9278654 [832.447 356.309] [800.525 328.037] [806.265 191.279] [836.724 240.72]   
+Frame 2527, 9278654 [831.401 355.875] [799.535 327.588] [805.067 190.92] [835.536 240.011]   
+Frame 2528, 9278654 [830.262 355.436] [798.388 326.639] [804.246 190.722] [834.633 239.928]  
+Frame 2529, 9278654 [828.838 354.394] [797.27 325.699] [803.008 190.103] [833.582 239.575]   
+Frame 2530, 9278654 [827.926 354.392] [795.879 325.138] [802.081 190.118] [831.91 238.68]   
+Frame 2531, 9278654 [826.5 353.887] [794.91 325.057] [800.613 189.729] [831.303 239.59]   
+Frame 2532, 9278654 [825.772 353.766] [793.55 324.86] [799.65 190.164] [829.818 238.976]   
+Frame 2533, 9278654 [824.501 353.953] [792.42 324.498] [798.319 190.287] [829.432 239.97]   
+Frame 2534, 9278654 [824.264 353.704] [791.596 324.269] [797.599 190.32] [828.63 239.741]   
+Frame 2535, 9278654 [823.859 353.199] [790.889 324.083] [796.951 189.966] [827.923 238.857]  
+Frame 2536, 9278654 [822.754 352.385] [789.672 323.096] [796.121 189.717] [827.613 239.102]  
+Frame 2537, 9278654 [822.387 351.878] [788.896 322.403] [795.099 188.893] [827.139 238.206]  
+Frame 2538, 9278654 [822.206 351.678] [788.229 321.857] [794.626 188.402] [826.802 237.683]  
+Frame 2539, 9278654 [821.179 350.884] [787.099 321.464] [793.764 188.266] [825.994 237.368]  
+Frame 2540, 9278654 [820.339 350.673] [785.889 320.733] [792.659 187.791] [825.481 237.508]  
+Frame 2541, 9278654 [819.571 350.126] [784.947 320.226] [791.971 187.69] [824.766 237.291]   
+Frame 2542, 9278654 [818.52 349.812] [783.865 319.389] [790.987 187.126] [823.801 236.815]   
+Frame 2543, 9278654 [817.225 348.952] [782.429 318.658] [789.809 187.164] [822.501 236.322]  
+Frame 2544, 9278654 [816.118 348.303] [781.117 318.27] [788.386 186.598] [821.468 236.496]   
+Frame 2545, 9278654 [814.523 347.974] [779.554 317.443] [786.822 186.456] [819.869 235.89]   
+Frame 2546, 9278654 [813.079 347.584] [777.943 316.736] [785.372 186.365] [818.608 235.963]  
+Frame 2547, 9278654 [812.019 347.104] [776.593 316.123] [784.231 186.243] [817.497 235.897]  
+Frame 2548, 9278654 [810.434 346.068] [775.046 315.602] [782.516 185.977] [815.913 235.255]  
+Frame 2549, 9278654 [808.937 345.375] [773.303 314.616] [780.723 185.14] [814.384 234.78]   
+Frame 2550, 9278654 [807.757 344.845] [771.877 313.672] [779.612 184.961] [813.279 234.181]  
+Frame 2551, 9278654 [806.727 344.178] [770.89 313.047] [778.541 184.37] [812.301 233.77]   
+Frame 2552, 9278654 [805.589 343.448] [769.6 312.301] [777.573 184.269] [811.362 233.701]   
+Frame 2553, 9278654 [803.809 343.172] [767.662 311.414] [775.923 184.318] [809.647 233.168]  
+Frame 2554, 9278654 [802.15 342.454] [765.633 311.028] [773.864 183.911] [807.841 233.271]   
+Frame 2555, 9278654 [801.133 342.485] [764.661 310.18] [772.585 183.712] [807.083 233.128]   
+Frame 2556, 9278654 [800.295 341.823] [763.533 309.582] [771.992 183.802] [806.074 232.82]   
+Frame 2557, 9278654 [798.463 340.838] [761.884 309.006] [770.515 183.46] [804.627 232.415]   
+Frame 2558, 9278654 [796.904 340.3] [760.329 307.886] [768.684 182.59] [803.284 232.258]   
+Frame 2559, 9278654 [795.959 339.5] [759.111 307.084] [767.819 182.494] [802.104 231.404]   
+Frame 2560, 9278654 [794.386 338.49] [757.622 306.277] [766.394 182.104] [800.751 231.034]   
+Frame 2561, 9278654 [792.985 337.685] [756.095 305.303] [764.736 181.224] [799.449 230.515]  
+Frame 2562, 9278654 [791.758 337.272] [754.656 304.198] [763.444 181.038] [798.017 229.805]  
+Frame 2563, 9278654 [790.404 336.182] [753.1 303.715] [762.12 180.614] [796.683 229.609]   
+Frame 2564, 9278654 [789.521 335.983] [752.062 302.622] [760.975 179.879] [795.816 229.448]  
+Frame 2565, 9278654 [788.287 335.362] [750.847 302.036] [760.041 179.998] [794.698 229.247]  
+Frame 2566, 9278654 [786.671 334.402] [749.201 301.053] [758.406 179.423] [793.287 228.84]   
+Frame 2567, 9278654 [785.868 333.705] [748.07 300.035] [757.194 178.683] [792.223 227.972]   
+Frame 2568, 9278654 [784.657 332.536] [746.863 299.005] [756.17 178.062] [791.294 227.479]   
+Frame 2569, 9278654 [783.77 331.681] [745.722 297.947] [754.901 177.183] [790.121 226.452]   
+Frame 2570, 9278654 [782.488 330.938] [744.443 297.083] [753.989 176.948] [789.215 226.214]  
+Frame 2571, 9278654 [781.535 330.574] [743.342 296.307] [752.698 176.387] [788.062 225.787]  
+Frame 2572, 9278654 [781.011 330.059] [742.946 295.603] [752.368 176.074] [787.902 225.881]  
+Frame 2573, 9278654 [780.679 329.487] [742.428 295.087] [752.225 175.993] [787.529 225.512]  
+Frame 2574, 9278654 [779.701 328.572] [741.378 294.136] [751.105 175.323] [786.661 224.981]  
+Frame 2575, 9278654 [778.421 327.892] [739.82 293.143] [749.519 174.308] [785.339 224.133]   
+Frame 2576, 9278654 [777.865 327.196] [738.987 292.216] [748.542 173.644] [784.73 223.34]   
+Frame 2577, 9278654 [777.363 326.662] [738.03 291.211] [748.063 173.25] [784.124 222.822]   
+Frame 2578, 9278654 [776.266 325.801] [737.073 290.543] [746.697 172.349] [783.23 222.376]   
+Frame 2579, 9278654 [775.751 325.233] [736.307 289.709] [746.234 172.26] [782.808 221.986]   
+Frame 2580, 9278654 [775.376 324.911] [735.728 289.219] [745.931 172.001] [782.317 221.746]  
+Frame 2581, 9278654 [774.276 324.05] [734.597 288.9] [744.669 171.67] [781.19 221.424]   
+Frame 2582, 9278654 [773.289 323.792] [733.589 288.24] [743.487 171.09] [780.253 221.152]   
+Frame 2583, 9278654 [772.436 322.932] [732.796 287.841] [742.674 170.9] [779.496 220.932]   
+Frame 2584, 9278654 [771.385 322.705] [731.59 286.793] [741.922 170.762] [778.459 220.587]   
+Frame 2585, 9278654 [770.181 321.949] [730.303 286.103] [740.609 170.433] [777.197 220.266]  
+Frame 2586, 9278654 [768.819 321.183] [729.092 285.509] [739.3 169.943] [776.137 219.82]   
+Frame 2587, 9278654 [768.148 320.612] [728.157 284.651] [738.547 169.462] [775.182 219.286]  
+Frame 2588, 9278654 [766.872 319.826] [727.188 283.703] [737.455 168.872] [774.226 218.588]  
+Frame 2589, 9278654 [765.64 318.668] [725.811 282.738] [736.384 168.186] [773.004 217.894]   
+Frame 2590, 9278654 [764.45 318.03] [724.665 281.817] [735.069 167.302] [771.851 217.452]   
+Frame 2591, 9278654 [763.141 317.33] [723.216 281.056] [733.968 167.284] [770.664 217.172]   
+Frame 2592, 9278654 [761.818 316.896] [721.728 280.688] [732.426 167.173] [769.187 216.908]  
+Frame 2593, 9278654 [760.36 316.829] [720.156 280.347] [730.688 167.089] [767.558 216.752]   
+Frame 2594, 9278654 [758.744 316.038] [718.673 279.812] [729.203 167.027] [766.198 216.562]  
+Frame 2595, 9278654 [757.398 315.268] [717.139 278.931] [727.921 166.599] [764.803 216.211]  
+Frame 2596, 9278654 [755.795 314.21] [715.577 277.985] [726.385 165.816] [763.375 215.582]   
+Frame 2597, 9278654 [754.257 313.184] [714.004 276.815] [724.666 164.854] [761.824 214.621]  
+Frame 2598, 9278654 [752.676 312.434] [712.254 275.88] [722.917 164.16] [760.181 213.965]   
+Frame 2599, 9278654 [751.247 311.627] [710.536 274.826] [721.397 163.859] [758.648 213.265]  
+Frame 2600, 9278654 [750.001 311.05] [709.087 274.23] [719.989 163.343] [757.277 212.681]   
+Frame 2601, 9278654 [748.565 310.309] [707.64 273.455] [718.457 162.859] [756.031 212.495]   
+Frame 2602, 9278654 [747.691 309.677] [706.471 272.771] [717.047 162.301] [754.943 211.804]  
+Frame 2603, 9278654 [746.903 309.174] [705.605 271.901] [716.339 161.961] [754.177 211.249]  
+Frame 2604, 9278654 [746.385 308.339] [705.024 271.346] [715.584 161.229] [753.556 210.656]  
+Frame 2605, 9278654 [745.623 307.477] [704.125 270.472] [714.828 160.538] [752.98 210.225]   
+Frame 2606, 9278654 [744.648 306.981] [703.116 269.397] [713.979 160.257] [752.101 209.911]  
+Frame 2607, 9278654 [743.782 306.142] [702.106 268.62] [712.779 159.711] [751.177 209.292]   
+Frame 2608, 9278654 [742.855 305.31] [701.046 267.626] [711.918 159.436] [750.187 208.726]   
+Frame 2609, 9278654 [742.041 304.638] [700.11 266.713] [710.788 158.485] [749.273 208.213]   
+Frame 2610, 9278654 [740.673 303.419] [698.929 265.721] [709.782 158.083] [748.209 207.566]  
+Frame 2611, 9278654 [739.135 302.707] [697.294 264.654] [708.399 157.468] [746.652 207.137]  
+Frame 2612, 9278654 [737.572 302.028] [695.622 263.798] [706.573 157.142] [744.976 206.512]  
+Frame 2613, 9278654 [736.199 301.301] [694.121 263.173] [704.905 156.44] [743.423 206.287]   
+Frame 2614, 9278654 [734.63 300.735] [692.72 262.223] [703.565 156.196] [742.149 205.93]   
+Frame 2615, 9278654 [733.398 300.094] [691.273 261.481] [702.341 155.749] [740.869 205.513]  
+Frame 2616, 9278654 [732.174 299.487] [689.915 260.769] [700.858 155.095] [739.435 204.812]  
+Frame 2617, 9278654 [730.573 298.756] [688.259 259.627] [699.484 154.708] [738.099 204.342]  
+Frame 2618, 9278654 [728.968 297.751] [686.611 258.811] [697.898 153.946] [736.64 203.983]   
+Frame 2619, 9278654 [727.421 297.265] [684.856 257.536] [696.159 153.113] [734.977 203.285]  
+Frame 2620, 9278654 [726.103 296.546] [683.231 256.588] [694.492 152.494] [733.405 202.445]  
+Frame 2621, 9278654 [724.8 295.425] [681.899 256.06] [693.279 151.709] [732.35 202.223]   
+Frame 2622, 9278654 [723.789 294.614] [680.909 255.1] [692.359 151.226] [731.455 201.598]   
+Frame 2623, 9278654 [722.448 293.945] [679.722 253.973] [691.128 150.243] [730.379 201.143]  
+Frame 2624, 9278654 [720.813 293.074] [678.156 252.57] [689.685 149.459] [728.872 200.452]   
+Frame 2625, 9278654 [719.336 291.94] [676.361 251.227] [687.846 148.533] [727.097 199.226]   
+Frame 2626, 9278654 [717.978 290.768] [674.603 249.69] [686.33 147.323] [725.536 197.969]   
+Frame 2627, 9278654 [716.631 289.305] [673.525 247.986] [684.883 145.876] [724.595 197.038]  
+Frame 2628, 9278654 [715.687 288.067] [672.264 246.556] [684.227 144.784] [723.607 196.022]  
+Frame 2629, 9278654 [714.613 286.219] [671.22 245.099] [683.261 143.605] [722.714 194.893]   
+Frame 2630, 9278654 [713.464 285.178] [670.014 243.301] [682.269 142.414] [721.593 193.838]  
+Frame 2631, 9278654 [712.165 283.955] [668.711 241.962] [680.873 141.123] [720.172 192.854]  
+Frame 2632, 9278654 [710.399 282.826] [667.004 240.904] [679.274 140.283] [718.676 192.092]  
+Frame 2633, 9278654 [708.466 281.926] [665.032 239.403] [677.121 139.552] [716.803 191.156]  
+Frame 2634, 9278654 [706.646 280.573] [662.928 237.991] [675.069 138.305] [714.992 190.379]  
+Frame 2635, 9278654 [705.214 279.815] [660.98 236.822] [673.342 137.346] [713.342 189.242]   
+Frame 2636, 9278654 [703.494 278.241] [659.13 235.314] [671.603 136.216] [711.825 188.537]   
+Frame 2637, 9278654 [701.328 277.01] [656.843 233.974] [669.444 135.423] [709.708 187.481]   
+Frame 2638, 9278654 [698.809 275.941] [654.054 233.033] [666.8 134.609] [707.287 186.731]   
+Frame 2639, 9278654 [696.645 275.219] [651.491 231.856] [664.044 133.719] [705.011 185.966]  
+Frame 2640, 9278654 [694.558 274.327] [649.073 230.27] [661.65 133.011] [702.989 185.441]   
+Frame 2641, 9278654 [692.658 273.552] [646.859 229.557] [659.53 132.478] [701.104 184.851]   
+Frame 2642, 9278654 [690.644 272.526] [644.616 228.894] [657.198 131.859] [698.964 184.368]  
+Frame 2643, 9278654 [688.227 271.84] [641.93 227.569] [654.819 131.384] [696.536 183.765]   
+Frame 2644, 9278654 [685.69 270.786] [639.182 226.527] [651.934 130.356] [694.02 182.769]   
+Frame 2645, 9278654 [683.596 269.29] [636.601 225.139] [649.435 129.09] [691.888 181.784]   
+Frame 2646, 9278654 [681.523 268.416] [634.316 223.665] [647.262 127.939] [689.927 180.816]  
+Frame 2647, 9278654 [679.605 267.112] [632.176 222.123] [645.256 126.904] [688.021 179.773]  
+Frame 2648, 9278654 [677.696 266.059] [629.989 221.113] [643.451 126.233] [686.221 179.162]  
+Frame 2649, 9278654 [675.69 265.539] [627.864 220.303] [641.298 125.596] [684.235 178.63]   
+Frame 2650, 9278654 [673.625 265.322] [625.751 219.598] [639.136 125.567] [682.297 178.839]  
+Frame 2651, 9278654 [672.084 265.871] [623.833 219.1] [637.631 125.728] [680.839 179.489]   
+Frame 2652, 9278654 [670.569 265.984] [622.529 218.906] [636.58 126.123] [679.748 179.826]   
+Frame 2653, 9278654 [669.639 265.406] [621.589 218.767] [635.791 125.814] [678.87 180.136]   
+Frame 2654, 9278654 [668.787 264.804] [621.097 217.729] [635.582 125.503] [678.456 180.06]   
+Frame 2655, 9278654 [668.188 264.596] [620.853 216.403] [635.698 125.032] [678.028 179.704]  
+Frame 2656, 9278654 [666.935 263.395] [620.137 214.979] [635.474 124.205] [677.369 178.965]  
+Frame 2657, 9278654 [665.342 262.71] [618.898 213.683] [634.419 123.32] [675.787 178.198]   
+Frame 2658, 9278654 [663.526 261.975] [617.38 212.417] [633.044 122.318] [674.176 177.665]   
+Frame 2659, 9278654 [662.1 260.947] [615.984 211.434] [632.047 121.82] [672.92 177.416]   
+Frame 2660, 9278654 [660.718 260.446] [614.985 210.688] [630.987 121.278] [671.836 177.271]  
+Frame 2661, 9278654 [659.539 260.065] [613.792 209.884] [630.195 120.956] [670.784 177.02]   
+Frame 2662, 9278654 [658.487 259.16] [612.722 209.247] [629.157 120.339] [669.818 176.569]   
+Frame 2663, 9278654 [657.394 258.696] [611.515 208.214] [628.121 119.749] [668.761 176.186]  
+Frame 2664, 9278654 [656.145 258.224] [609.87 207.626] [626.656 119.5] [667.439 175.271]   
+Frame 2665, 9278654 [654.847 257.881] [608.234 207.221] [624.994 119.2] [666.19 175.153]   
+Frame 2666, 9278654 [653.543 258.018] [606.551 207.446] [623.305 119.622] [665.005 175.595]  
+Frame 2667, 9278654 [652.229 258.88] [604.917 208.108] [621.709 120.397] [663.692 176.633]   
+Frame 2668, 9278654 [650.866 259.698] [603.228 209.428] [620.274 121.854] [662.409 177.867]  
+Frame 2669, 9278654 [649.284 260.918] [601.66 210.29] [618.658 123.064] [660.921 178.922]   
+Frame 2670, 9278654 [647.127 261.537] [599.5 210.844] [616.648 124.03] [659 179.709]    =
+Frame 2671, 9278654 [644.669 261.157] [596.827 211.341] [614.237 124.655] [656.692 180.038]  
+Frame 2672, 9278654 [642.322 261.609] [594.245 210.971] [611.763 124.554] [654.275 180.109]  
+Frame 2673, 9278654 [640.302 261.655] [592.082 210.828] [609.891 124.451] [652.522 180.441]  
+Frame 2674, 9278654 [638.593 261.535] [590.271 210.838] [608.499 124.732] [651.041 180.764]  
+Frame 2675, 9278654 [637.359 262.11] [589.302 211.324] [607.482 124.989] [650.019 181.372]   
+Frame 2676, 9278654 [636.347 263.051] [588.561 211.326] [607.187 125.844] [649.346 182.285]  
+Frame 2677, 9278654 [634.788 263.449] [587.384 211.872] [606.346 126.927] [648.178 183.303]  
+Frame 2678, 9278654 [633.03 263.764] [585.67 212.124] [604.881 127.345] [646.538 183.884]   
+Frame 2679, 9278654 [631.594 263.732] [584.245 211.441] [603.66 126.924] [645.233 183.727]   
+Frame 2680, 9278654 [630.317 263.008] [583.068 210.935] [602.727 126.441] [644.175 183.15]   
+Frame 2681, 9278654 [629.23 262.343] [582.018 210.054] [601.983 125.76] [643.316 182.86]   
+Frame 2682, 9278654 [628.436 261.755] [581.386 209.492] [601.441 125.33] [642.864 182.727]   
+Frame 2683, 9278654 [628.208 261.958] [581.092 209.124] [601.523 125.329] [642.742 182.911]  
+Frame 2684, 9278654 [627.99 262.395] [580.905 209.262] [601.531 125.96] [642.77 183.217]   
+Frame 2685, 9278654 [627.497 262.605] [580.317 209.632] [601.183 126.457] [642.421 184.081]  
+Frame 2686, 9278654 [627.044 263.363] [579.881 209.9] [600.797 127.328] [642.079 184.696]   
+Frame 2687, 9278654 [626.671 263.512] [579.383 210.33] [600.41 127.804] [641.857 185.27]   
+Frame 2688, 9278654 [626.227 263.664] [578.672 210.465] [599.858 127.875] [641.381 185.565]  
+Frame 2689, 9278654 [625.648 263.965] [577.979 210.541] [599.338 128.573] [641.127 185.993]  
+Frame 2690, 9278654 [625.096 264.5] [577.33 211.086] [598.812 129.11] [640.559 186.685]   
+Frame 2691, 9278654 [624.119 265.021] [576.308 211.342] [598.116 130.084] [639.735 187.576]  
+Frame 2692, 9278654 [622.758 265.768] [575.08 211.834] [596.85 130.974] [638.563 188.643]   
+Frame 2693, 9278654 [621.556 266.195] [573.842 212.346] [595.668 131.408] [637.361 189.298]  
+Frame 2694, 9278654 [620.427 266.608] [572.677 212.594] [594.71 132.23] [636.357 189.803]   
+Frame 2695, 9278654 [619.384 266.945] [571.653 212.762] [593.799 132.552] [635.367 190.265]  
+Frame 2696, 9278654 [618.395 267.024] [570.768 212.751] [593.07 132.872] [634.759 190.646]   
+Frame 2697, 9278654 [617.748 266.758] [569.903 212.343] [592.527 132.684] [634.139 190.517]  
+Frame 2698, 9278654 [616.962 266.737] [569.173 211.796] [591.897 132.369] [633.469 190.348]  
+Frame 2699, 9278654 [616.056 266.55] [568.124 211.449] [591.086 132.163] [632.861 190.406]   
+Frame 2700, 9278654 [615.217 266.364] [567.016 211.277] [590.241 132.079] [632.009 190.379]  
+Frame 2701, 9278654 [613.867 266.091] [565.532 211.258] [588.838 132.106] [630.909 190.323]  
+Frame 2702, 9278654 [612.401 265.707] [563.788 210.745] [587.116 131.792] [629.403 189.828]  
+Frame 2703, 9278654 [611.18 265.347] [562.23 210.241] [585.723 131.301] [628.343 189.613]   
+Frame 2704, 9278654 [610.32 265.003] [561.128 209.638] [584.765 131.183] [627.503 189.242]   
+Frame 2705, 9278654 [609.802 264.74] [560.463 209.076] [584.361 130.698] [627.122 189.368]   
+Frame 2706, 9278654 [609.544 264.337] [560.234 208.567] [584.334 130.479] [627.02 189.228]   
+Frame 2707, 9278654 [609.242 263.987] [560.164 207.822] [584.504 130.422] [627.124 188.922]  
+Frame 2708, 9278654 [608.301 263.47] [559.514 207.35] [584.072 129.865] [626.363 188.8]   
+Frame 2709, 9278654 [606.795 263.223] [557.98 206.824] [582.729 129.632] [625.017 188.763]   
+Frame 2710, 9278654 [605.292 262.846] [556.328 206.526] [581.222 129.559] [623.457 188.581]  
+Frame 2711, 9278654 [603.533 262.626] [554.561 206.31] [579.431 129.526] [621.862 188.505]   
+Frame 2712, 9278654 [601.764 262.605] [552.729 206.017] [577.607 129.432] [620.113 188.457]  
+Frame 2713, 9278654 [600.519 262.54] [551.365 206.019] [576.261 129.383] [619.059 188.773]   
+Frame 2714, 9278654 [599.674 262.869] [550.261 206.115] [575.357 130.055] [618.173 189.201]  
+Frame 2715, 9278654 [598.651 263.737] [549.325 207.131] [574.374 131.11] [617.261 190.286]   
+Frame 2716, 9278654 [597.881 264.866] [548.51 208.252] [573.665 132.441] [616.529 191.809]   
+Frame 2717, 9278654 [597.392 266.253] [547.968 209.163] [573.358 134.136] [616.155 193.319]  
+Frame 2718, 9278654 [597.583 267.16] [548.341 210.061] [574.018 135.571] [616.619 194.781]   
+Frame 2719, 9278654 [596.684 267.999] [547.734 210.817] [573.627 136.887] [615.919 196.087]  
+Frame 2720, 9278654 [594.87 268.876] [545.96 211.605] [571.913 138.038] [614.167 197.097]   
+Frame 2721, 9278654 [593.008 269.317] [543.917 212.44] [569.91 138.958] [612.282 197.727]   
+Frame 2722, 9278654 [591.265 269.834] [542.118 212.835] [568.197 139.633] [610.728 198.587]  
+Frame 2723, 9278654 [589.589 270.384] [540.37 213.218] [566.678 140.431] [609.055 199.216]   
+Frame 2724, 9278654 [587.469 270.713] [538.371 213.635] [564.516 140.957] [607.029 199.555]  
+Frame 2725, 9278654 [585.376 270.724] [536.004 213.958] [562.247 141.255] [604.967 199.824]  
+Frame 2726, 9278654 [583.796 270.997] [534.004 213.917] [560.368 141.204] [603.267 199.871]  
+Frame 2727, 9278654 [582.556 271.176] [532.837 213.727] [559.142 141.116] [602.252 199.9]   
+Frame 2728, 9278654 [581.511 270.952] [531.543 213.883] [558.035 141.092] [601.156 200.216]  
+Frame 2729, 9278654 [580.444 271.166] [530.221 213.997] [556.836 141.374] [600.207 200.22]   
+Frame 2730, 9278654 [579.671 271.466] [529.383 214.214] [555.966 141.555] [599.438 200.596]  
+Frame 2731, 9278654 [578.96 272.044] [528.604 214.604] [555.295 142.123] [598.913 201.192]   
+Frame 2732, 9278654 [578.242 272.822] [527.735 215.29] [554.563 143.068] [598.25 202.018]   
+Frame 2733, 9278654 [576.832 273.862] [526.285 216.229] [553.218 144.475] [596.916 203.31]   
+Frame 2734, 9278654 [575.061 274.96] [524.34 217.696] [551.157 145.926] [595.044 204.646]   
+Frame 2735, 9278654 [573.275 276.513] [522.313 219.238] [549.158 147.702] [593.2 206.481]   
+Frame 2736, 9278654 [571.803 278.679] [520.677 221.484] [547.476 149.97] [591.514 208.732]   
+Frame 2737, 9278654 [569.893 281.19] [518.84 223.928] [545.473 152.9] [589.702 211.417]   
+Frame 2738, 9278654 [567.956 283.764] [516.845 226.747] [543.471 155.954] [587.828 214.574]  
+Frame 2739, 9278654 [566.2 286.474] [514.927 229.364] [541.758 159.044] [586.029 217.31]   
+Frame 2740, 9278654 [564.114 288.901] [513.038 231.792] [539.854 161.914] [584.104 220.131]  
+Frame 2741, 9278654 [561.948 291.387] [510.759 234.395] [537.503 164.747] [581.883 222.796]  
+Frame 2742, 9278654 [559.69 293.599] [508.317 236.721] [535.084 167.285] [579.502 225.009]   
+Frame 2743, 9278654 [557.907 295.528] [506.338 238.894] [533.301 169.466] [577.835 227.259]  
+Frame 2744, 9278654 [556.693 297.519] [505.446 240.781] [532.386 171.52] [576.939 229.432]   
+Frame 2745, 9278654 [555.825 299.461] [504.754 242.634] [531.711 173.577] [576.085 231.609]  
+Frame 2746, 9278654 [555.06 301.682] [504.131 244.682] [531.273 176.286] [575.394 234.165]   
+Frame 2747, 9278654 [554.518 304.104] [503.951 246.708] [531.064 179.08] [575.032 236.961]   
+Frame 2748, 9278654 [554.325 306.138] [504.055 248.958] [531.25 181.722] [574.931 239.467]   
+Frame 2749, 9278654 [554.426 308.213] [504.479 250.911] [531.824 183.96] [575.137 241.953]   
+Frame 2750, 9278654 [554.969 309.979] [505.402 252.606] [532.711 186.145] [575.616 243.922]  
+Frame 2751, 9278654 [555.504 311.699] [506.131 253.992] [533.675 188.186] [576.276 246.047]  
+Frame 2752, 9278654 [555.991 313.392] [507.015 255.474] [534.648 190.303] [576.963 248.247]  
+Frame 2753, 9278654 [556.387 314.892] [507.623 256.951] [535.347 192.137] [577.428 250.182]  
+Frame 2754, 9278654 [556.744 316.441] [508.064 258.301] [535.787 194.004] [577.669 251.874]  
+Frame 2755, 9278654 [556.706 317.75] [508.265 259.719] [536.141 195.949] [577.985 253.988]   
+Frame 2756, 9278654 [556.662 319.258] [508.144 261.29] [536.061 197.837] [577.907 255.878]   
+Frame 2757, 9278654 [557.11 321.081] [508.843 262.684] [536.679 199.896] [578.389 257.589]   
+Frame 2758, 9278654 [557.389 321.978] [509.435 264.015] [537.187 201.435] [578.925 259.302]  
+Frame 2759, 9278654 [557.955 323.157] [509.936 264.597] [538.016 202.725] [579.333 260.615]  
+Frame 2760, 9278654 [559.307 323.892] [511.776 265.329] [539.804 204.162] [580.849 261.918]  
+Frame 2761, 9278654 [560.699 325.021] [513.697 266.002] [542.065 205.48] [582.737 263.824]   
+Frame 2762, 9278654 [561.293 326.626] [514.695 267.021] [543.173 207.073] [583.453 265.807]  
+Frame 2763, 9278654 [560.902 328.118] [514.574 268.435] [543.123 209.325] [583.269 267.915]  
+Frame 2764, 9278654 [559.946 329.855] [513.772 269.996] [542.429 211.491] [582.319 270.316]  
+Frame 2765, 9278654 [558.924 331.401] [512.833 271.476] [541.537 213.413] [581.319 272.456]  
+Frame 2766, 9278654 [557.641 332.927] [511.755 273.317] [540.421 215.689] [580.192 274.561]  
+Frame 2767, 9278654 [556.178 334.755] [509.938 275.188] [538.67 218.3] [578.409 276.804]   
+Frame 2768, 9278654 [554.736 336.993] [508.624 277.334] [536.955 220.655] [577.169 279.228]  
+Frame 2769, 9278654 [554.234 339.013] [507.806 279.435] [536.332 223.276] [576.591 281.652]  
+Frame 2770, 9278654 [554.046 341.444] [507.715 281.558] [536.175 225.773] [576.382 284.058]  
+Frame 2771, 9278654 [553.485 343.618] [507.244 283.951] [535.549 228.877] [575.638 286.766]  
+Frame 2772, 9278654 [552.218 345.901] [505.926 286.315] [534.275 231.738] [574.472 289.786]  
+Frame 2773, 9278654 [550.528 347.954] [504.426 288.358] [532.853 234.515] [572.893 292.623]  
+Frame 2774, 9278654 [548.533 350.009] [502.603 290.333] [530.864 236.723] [570.869 294.792]  
+Frame 2775, 9278654 [546.163 351.025] [500.297 291.547] [528.762 238.631] [568.531 296.443]  
+Frame 2776, 9278654 [543.828 351.731] [498.046 292.213] [526.551 239.753] [566.202 297.315]  
+Frame 2777, 9278654 [541.193 352.586] [495.737 292.599] [524.139 240.548] [563.418 298.38]   
+Frame 2778, 9278654 [538.605 353.577] [493.455 293.798] [521.507 241.968] [560.955 300.055]  
+Frame 2779, 9278654 [536.346 355.47] [491.099 294.977] [519.358 243.94] [558.409 302.102]   
+Frame 2780, 9278654 [534.439 357.294] [489.652 296.83] [517.715 246.206] [556.822 304.455]   
+Frame 2781, 9278654 [533.609 359.338] [488.82 298.827] [516.938 248.427] [555.595 306.433]   
+Frame 2782, 9278654 [533.343 360.978] [489.018 300.358] [517.111 250.701] [555.477 308.865]  
+Frame 2783, 9278654 [533.796 362.075] [489.678 301.782] [517.723 252.651] [555.957 310.716]  
+Frame 2784, 9278654 [534.768 362.889] [490.867 302.705] [518.822 254.259] [556.876 311.782]  
+Frame 2785, 9278654 [536.318 363.58] [492.758 303.378] [520.45 255.493] [558.376 312.768]   
+Frame 2786, 9278654 [538.256 364.055] [494.739 304.191] [522.601 257.014] [560.2 314.191]   
+Frame 2787, 9278654 [540.161 364.76] [496.905 304.994] [524.609 258.196] [562.033 315.25]   
+Frame 2788, 9278654 [542.113 365.193] [498.939 305.577] [526.518 259.131] [563.905 316.14]   
+Frame 2789, 9278654 [543.63 365.439] [500.644 305.66] [528.097 259.677] [565.489 316.539]   
+Frame 2790, 9278654 [544.799 365.337] [501.87 305.377] [529.336 259.915] [566.79 317.012]   
+Frame 2791, 9278654 [546.345 364.886] [503.439 305.228] [530.641 259.969] [568.061 316.943]  
+Frame 2792, 9278654 [548.292 364.236] [505.697 304.471] [532.829 259.92] [569.925 316.934]   
+Frame 2793, 9278654 [550.458 363.631] [508.327 303.421] [535.385 259.286] [572.292 316.417]  
+Frame 2794, 9278654 [552.505 363.234] [510.342 302.806] [537.744 259.237] [574.288 316.243]  
+Frame 2795, 9278654 [553.897 363.21] [511.875 302.779] [539.159 259.193] [575.578 316.58]   
+Frame 2796, 9278654 [554.915 363.391] [513.011 303.261] [540.159 259.725] [576.721 317.162]  
+Frame 2797, 9278654 [555.684 364.042] [513.785 303.465] [540.964 260.53] [577.434 317.957]   
+Frame 2798, 9278654 [556.249 364.844] [514.31 304.385] [541.356 261.821] [577.969 319.107]   
+Frame 2799, 9278654 [557.038 366.146] [515.266 305.961] [541.945 263.423] [578.502 320.582]  
+Frame 2800, 9278654 [558.066 367.661] [516.127 307.213] [542.828 265.601] [579.364 322.395]  
+Frame 2801, 9278654 [559.317 369.154] [517.418 309.008] [543.65 267.23] [580.394 323.981]   
+Frame 2802
+Frame 2803
+Frame 2804
+Frame 2805
+Frame 2806
+Frame 2807
+Frame 2808
+Frame 2809
+Frame 2810
+Frame 2811
+Frame 2812
+Frame 2813
+Frame 2814
+Frame 2815
+Frame 2816
+Frame 2817
+Frame 2818
+Frame 2819
+Frame 2820
+Frame 2821
+Frame 2822
+Frame 2823
+Frame 2824
+Frame 2825
+Frame 2826
+Frame 2827
+Frame 2828
+Frame 2829
+Frame 2830
+Frame 2831
+Frame 2832
+Frame 2833
+Frame 2834
+Frame 2835
+Frame 2836
+Frame 2837
+Frame 2838
+Frame 2839
+Frame 2840
+Frame 2841
+Frame 2842
+Frame 2843
+Frame 2844
+Frame 2845
+Frame 2846
+Frame 2847
+Frame 2848
+Frame 2849
+Frame 2850
+Frame 2851
+Frame 2852
+Frame 2853
+Frame 2854
+Frame 2855
+Frame 2856
+Frame 2857
+Frame 2858
+Frame 2859
+Frame 2860
+Frame 2861
+Frame 2862
+Frame 2863
+Frame 2864
+Frame 2865
+Frame 2866
+Frame 2867
+Frame 2868
+Frame 2869
+Frame 2870
+Frame 2871
+Frame 2872
+Frame 2873
+Frame 2874
+Frame 2875
+Frame 2876
+Frame 2877
+Frame 2878
+Frame 2879
+Frame 2880
+Frame 2881
+Frame 2882
+Frame 2883
+Frame 2884
+Frame 2885
+Frame 2886
+Frame 2887
+Frame 2888
+Frame 2889
+Frame 2890
+Frame 2891
+Frame 2892
+Frame 2893
+Frame 2894
