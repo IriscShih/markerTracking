@@ -1,0 +1,2894 @@
+Frame: 1
+Frame: 2.00067
+Frame: 3.00067
+Frame: 4.00133
+Frame: 5.00133
+Frame: 6.002
+Frame: 7.002
+Frame: 8.00266
+Frame: 9.00266
+Frame: 10.0033
+Frame: 11.0033
+Frame: 12.004
+Frame: 13.004
+Frame: 14.0047
+Frame: 15.0047
+Frame: 16.0053
+Frame: 17.0053
+Frame: 18.006
+Frame: 19.006
+Frame: 20.0067
+Frame: 21.0067
+Frame: 22.0073
+Frame: 23.0073
+Frame: 24.008
+Frame: 25.008
+Frame: 26.0087
+Frame: 27.0087
+Frame: 28.0093
+Frame: 29.0093
+Frame: 30.01
+Frame: 31.01
+Frame: 32.0107
+Frame: 33.0107
+Frame: 34.0113
+Frame: 35.0113
+Frame: 36.012
+Frame: 37.012
+Frame: 38.0127
+Frame: 39.0127
+Frame: 40.0133
+Frame: 41.0133
+Frame: 42.014
+Frame: 43.014
+Frame: 44.0147
+Frame: 45.0147
+Frame: 46.0153
+Frame: 47.0153
+Frame: 48.016
+Frame: 49.016
+Frame: 50.0167
+Frame: 51.0167
+Frame: 52.0173
+Frame: 53.0173
+Frame: 54.018
+Frame: 55.018
+Frame: 56.0187
+Frame: 57.0187
+Frame: 58.0193
+Frame: 59.0193
+Frame: 60.02
+Frame: 61.02
+Frame: 62.0207
+Frame: 63.0207
+Frame: 64.0213
+Frame: 65.0213
+Frame: 66.022
+Frame: 67.022
+Frame: 68.0227
+Frame: 69.0227
+Frame: 70.0233
+Frame: 71.0233
+Frame: 72.024
+Frame: 73.024
+Frame: 74.0247
+Frame: 75.0247
+Frame: 76.0253
+Frame: 77.0253
+Frame: 78.026
+Frame: 79.026
+Frame: 80.0266
+Frame: 81.0266
+Frame: 82.0273
+Frame: 83.0273
+Frame: 84.028
+Frame: 85.028
+Frame: 86.0286
+Frame: 87.0286
+Frame: 88.0293
+Frame: 89.0293
+Frame: 90.03
+Frame: 91.03
+Frame: 92.0306
+Frame: 93.0306
+Frame: 94.0313
+Frame: 95.0313
+Frame: 96.032
+Frame: 97.032
+Frame: 98.0326
+Frame: 99.0326
+Frame: 100.033
+Frame: 101.033
+Frame: 102.034
+Frame: 103.034
+Frame: 104.035
+Frame: 105.035
+Frame: 106.035
+Frame: 107.035
+Frame: 108.036
+Frame: 109.036
+Frame: 110.037
+Frame: 111.037
+Frame: 112.037
+Frame: 113.037
+Frame: 114.038
+Frame: 115.038
+Frame: 116.039
+Frame: 117.039
+Frame: 118.039
+Frame: 119.039
+Frame: 120.04
+Frame: 121.04
+Frame: 122.041
+Frame: 123.041
+Frame: 124.041
+Frame: 125.041
+Frame: 126.042
+Frame: 127.042
+Frame: 128.043
+Frame: 129.043
+Frame: 130.043
+Frame: 131.043
+Frame: 132.044
+Frame: 133.044
+Frame: 134.045
+Frame: 135.045
+Frame: 136.045
+Frame: 137.045
+Frame: 138.046
+Frame: 139.046
+Frame: 140.047
+Frame: 141.047
+Frame: 142.047
+Frame: 143.047
+Frame: 144.048
+Frame: 145.048
+Frame: 146.049
+Frame: 147.049
+Frame: 148.049
+Frame: 149.049
+Frame: 150.05
+Frame: 151.05
+Frame: 152.051
+Frame: 153.051
+Frame: 154.051
+Frame: 155.051
+Frame: 156.052
+Frame: 157.052
+Frame: 158.053
+Frame: 159.053
+Frame: 160.053
+Frame: 161.053
+Frame: 162.054
+Frame: 163.054
+Frame: 164.055
+Frame: 165.055
+Frame: 166.055
+Frame: 167.055
+Frame: 168.056
+Frame: 169.056
+Frame: 170.057
+Frame: 171.057
+Frame: 172.057
+Frame: 173.057
+Frame: 174.058
+Frame: 175.058
+Frame: 176.059
+Frame: 177.059
+Frame: 178.059
+Frame: 179.059
+Frame: 180.06
+Frame: 181.06
+Frame: 182.061
+Frame: 183.061
+Frame: 184.061
+Frame: 185.061
+Frame: 186.062
+Frame: 187.062
+Frame: 188.063
+Frame: 189.063
+Frame: 190.063
+Frame: 191.063
+Frame: 192.064
+Frame: 193.064
+Frame: 194.065
+Frame: 195.065
+Frame: 196.065
+Frame: 197.065
+Frame: 198.066
+Frame: 199.066
+Frame: 200.067
+Frame: 201.067
+Frame: 202.067
+Frame: 203.067
+Frame: 204.068
+Frame: 205.068
+Frame: 206.069
+Frame: 207.069
+Frame: 208.069
+Frame: 209.069
+Frame: 210.07
+Frame: 211.07
+Frame: 212.071
+Frame: 213.071
+Frame: 214.071
+Frame: 215.071
+Frame: 216.072
+Frame: 217.072
+Frame: 218.073
+Frame: 219.073
+Frame: 220.073
+Frame: 221.073
+Frame: 222.074
+Frame: 223.074
+Frame: 224.075
+Frame: 225.075
+Frame: 226.075
+Frame: 227.075
+Frame: 228.076
+Frame: 229.076
+Frame: 230.077
+Frame: 231.077
+Frame: 232.077
+Frame: 233.077
+Frame: 234.078
+Frame: 235.078
+Frame: 236.079
+Frame: 237.079
+Frame: 238.079
+Frame: 239.079
+Frame: 240.08
+Frame: 241.08
+Frame: 242.081
+Frame: 243.081
+Frame: 244.081
+Frame: 245.081
+Frame: 246.082
+Frame: 247.082
+Frame: 248.083
+Frame: 249.083
+Frame: 250.083
+Frame: 251.083
+Frame: 252.084
+Frame: 253.084
+Frame: 254.085
+Frame: 255.085
+Frame: 256.085
+Frame: 257.085
+Frame: 258.086
+Frame: 259.086
+Frame: 260.087
+Frame: 261.087
+Frame: 262.087
+Frame: 263.087
+Frame: 264.088
+Frame: 265.088
+Frame: 266.089
+Frame: 267.089
+Frame: 268.089
+Frame: 269.089
+Frame: 270.09
+Frame: 271.09
+Frame: 272.091
+Frame: 273.091
+Frame: 274.091
+Frame: 275.091
+Frame: 276.092
+Frame: 277.092
+Frame: 278.093
+Frame: 279.093
+Frame: 280.093
+Frame: 281.093
+Frame: 282.094
+Frame: 283.094
+Frame: 284.095
+Frame: 285.095
+Frame: 286.095
+Frame: 287.095
+Frame: 288.096
+Frame: 289.096
+Frame: 290.097
+Frame: 291.097
+Frame: 292.097
+Frame: 293.097
+Frame: 294.098
+Frame: 295.098
+Frame: 296.099
+Frame: 297.099
+Frame: 298.099
+Frame: 299.099
+Frame: 300.1
+Frame: 301.1
+Frame: 302.101
+Frame: 303.101
+Frame: 304.101
+Frame: 305.101
+Frame: 306.102
+Frame: 307.102
+Frame: 308.103
+Frame: 309.103
+Frame: 310.103
+Frame: 311.103
+Frame: 312.104
+Frame: 313.104
+Frame: 314.105
+Frame: 315.105
+Frame: 316.105
+Frame: 317.105
+Frame: 318.106
+Frame: 319.106
+Frame: 320.107
+Frame: 321.107
+Frame: 322.107
+Frame: 323.107
+Frame: 324.108
+Frame: 325.108
+Frame: 326.109
+Frame: 327.109
+Frame: 328.109
+Frame: 329.109
+Frame: 330.11
+Frame: 331.11
+Frame: 332.111
+Frame: 333.111
+Frame: 334.111
+Frame: 335.111
+Frame: 336.112
+Frame: 337.112
+Frame: 338.113
+Frame: 339.113
+Frame: 340.113
+Frame: 341.113
+Frame: 342.114
+Frame: 343.114
+Frame: 344.115
+Frame: 345.115
+Frame: 346.115
+Frame: 347.115
+Frame: 348.116
+Frame: 349.116
+Frame: 350.117
+Frame: 351.117
+Frame: 352.117
+Frame: 353.117
+Frame: 354.118
+Frame: 355.118
+Frame: 356.119
+Frame: 357.119
+Frame: 358.119
+Frame: 359.119
+Frame: 360.12
+Frame: 361.12
+Frame: 362.121
+Frame: 363.121
+Frame: 364.121
+Frame: 365.121
+Frame: 366.122
+Frame: 367.122
+Frame: 368.123
+Frame: 369.123
+Frame: 370.123
+Frame: 371.123
+Frame: 372.124
+Frame: 373.124
+Frame: 374.125
+Frame: 375.125
+Frame: 376.125
+Frame: 377.125
+Frame: 378.126
+Frame: 379.126
+Frame: 380.127
+Frame: 381.127
+Frame: 382.127
+Frame: 383.127
+Frame: 384.128
+Frame: 385.128
+Frame: 386.129
+Frame: 387.129
+Frame: 388.129
+Frame: 389.129
+Frame: 390.13
+Frame: 391.13
+Frame: 392.131
+Frame: 393.131
+Frame: 394.131
+Frame: 395.131
+Frame: 396.132
+Frame: 397.132
+Frame: 398.133
+Frame: 399.133
+Frame: 400.133
+Frame: 401.133
+Frame: 402.134
+Frame: 403.134
+Frame: 404.135
+Frame: 405.135
+Frame: 406.135
+Frame: 407.135
+Frame: 408.136
+Frame: 409.136
+Frame: 410.137
+Frame: 411.137
+Frame: 412.137
+Frame: 413.137
+Frame: 414.138
+Frame: 415.138
+Frame: 416.139
+Frame: 417.139
+Frame: 418.139
+Frame: 419.139
+Frame: 420.14
+Frame: 421.14
+Frame: 422.141
+Frame: 423.141
+Frame: 424.141
+Frame: 425.141
+Frame: 426.142
+Frame: 427.142
+Frame: 428.143
+Frame: 429.143
+Frame: 430.143
+Frame: 431.143
+Frame: 432.144
+Frame: 433.144
+Frame: 434.145
+Frame: 435.145
+Frame: 436.145
+Frame: 437.145
+Frame: 438.146
+Frame: 439.146
+Frame: 440.147
+Frame: 441.147
+Frame: 442.147
+Frame: 443.147
+Frame: 444.148
+Frame: 445.148
+Frame: 446.149
+Frame: 447.149
+Frame: 448.149
+Frame: 449.149
+Frame: 450.15
+Frame: 451.15
+Frame: 452.151
+Frame: 453.151
+Frame: 454.151
+Frame: 455.151
+Frame: 456.152
+Frame: 457.152
+Frame: 458.153
+Frame: 459.153
+Frame: 460.153
+Frame: 461.153
+Frame: 462.154
+Frame: 463.154
+Frame: 464.155
+Frame: 465.155
+Frame: 466.155
+Frame: 467.155
+Frame: 468.156
+Frame: 469.156
+Frame: 470.157
+Frame: 471.157
+Frame: 472.157
+Frame: 473.157
+Frame: 474.158
+Frame: 475.158
+Frame: 476.159
+Frame: 477.159
+Frame: 478.159
+Frame: 479.159
+Frame: 480.16
+Frame: 481.16
+Frame: 482.161
+Frame: 483.161
+Frame: 484.161
+Frame: 485.161
+Frame: 486.162
+Frame: 487.162
+Frame: 488.163
+Frame: 489.163
+Frame: 490.163
+Frame: 491.163
+Frame: 492.164
+Frame: 493.164
+Frame: 494.165
+Frame: 495.165
+Frame: 496.165
+Frame: 497.165
+Frame: 498.166
+Frame: 499.166
+Frame: 500.167
+Frame: 501.167
+Frame: 502.167
+Frame: 503.167
+Frame: 504.168
+Frame: 505.168
+Frame: 506.169
+Frame: 507.169
+Frame: 508.169
+Frame: 509.169
+Frame: 510.17
+Frame: 511.17
+Frame: 512.171
+Frame: 513.171
+Frame: 514.171
+Frame: 515.171
+Frame: 516.172
+Frame: 517.172
+Frame: 518.173
+Frame: 519.173
+Frame: 520.173
+Frame: 521.173
+Frame: 522.174
+Frame: 523.174
+Frame: 524.175
+Frame: 525.175
+Frame: 526.175
+Frame: 527.175
+Frame: 528.176
+Frame: 529.176
+Frame: 530.177
+Frame: 531.177
+Frame: 532.177
+Frame: 533.177
+Frame: 534.178
+Frame: 535.178
+Frame: 536.179
+Frame: 537.179
+Frame: 538.179
+Frame: 539.179
+Frame: 540.18
+Frame: 541.18
+Frame: 542.181
+Frame: 543.181
+Frame: 544.181
+Frame: 545.181
+Frame: 546.182
+Frame: 547.182
+Frame: 548.183
+Frame: 549.183
+Frame: 550.183
+Frame: 551.183
+Frame: 552.184
+Frame: 553.184
+Frame: 554.185
+Frame: 555.185
+Frame: 556.185
+Frame: 557.185
+Frame: 558.186
+Frame: 559.186
+Frame: 560.187
+Frame: 561.187
+Frame: 562.187
+Frame: 563.187
+Frame: 564.188
+Frame: 565.188
+Frame: 566.189
+Frame: 567.189
+Frame: 568.189
+Frame: 569.189
+Frame: 570.19
+Frame: 571.19
+Frame: 572.191
+Frame: 573.191
+Frame: 574.191
+Frame: 575.191
+Frame: 576.192
+Frame: 577.192
+Frame: 578.193
+Frame: 579.193
+Frame: 580.193
+Frame: 581.193
+Frame: 582.194
+Frame: 583.194
+Frame: 584.195
+Frame: 585.195
+Frame: 586.195
+Frame: 587.195
+Frame: 588.196
+Frame: 589.196
+Frame: 590.197
+Frame: 591.197
+Frame: 592.197
+Frame: 593.197
+Frame: 594.198
+Frame: 595.198
+Frame: 596.199
+Frame: 597.199
+Frame: 598.199
+Frame: 599.199
+Frame: 600.2
+Frame: 601.2
+Frame: 602.201
+Frame: 603.201
+Frame: 604.201
+Frame: 605.201
+Frame: 606.202
+Frame: 607.202
+Frame: 608.203
+Frame: 609.203
+Frame: 610.203
+Frame: 611.203
+Frame: 612.204
+Frame: 613.204
+Frame: 614.205
+Frame: 615.205
+Frame: 616.205
+Frame: 617.205
+Frame: 618.206
+Frame: 619.206
+Frame: 620.207
+Frame: 621.207
+Frame: 622.207
+Frame: 623.207
+Frame: 624.208
+Frame: 625.208
+Frame: 626.209
+Frame: 627.209
+Frame: 628.209
+Frame: 629.209
+Frame: 630.21
+Frame: 631.21
+Frame: 632.211
+Frame: 633.211
+Frame: 634.211
+Frame: 635.211
+Frame: 636.212
+Frame: 637.212
+Frame: 638.213
+Frame: 639.213
+Frame: 640.213
+Frame: 641.213
+Frame: 642.214
+Frame: 643.214
+Frame: 644.215
+Frame: 645.215
+Frame: 646.215
+Frame: 647.215
+Frame: 648.216
+Frame: 649.216
+Frame: 650.217
+Frame: 651.217
+Frame: 652.217
+Frame: 653.217
+Frame: 654.218
+Frame: 655.218
+Frame: 656.219
+Frame: 657.219
+Frame: 658.219
+Frame: 659.219
+Frame: 660.22
+Frame: 661.22
+Frame: 662.221
+Frame: 663.221
+Frame: 664.221
+Frame: 665.221
+Frame: 666.222
+Frame: 667.222
+Frame: 668.223
+Frame: 669.223
+Frame: 670.223
+Frame: 671.223
+Frame: 672.224
+Frame: 673.224
+Frame: 674.225
+Frame: 675.225
+Frame: 676.225
+Frame: 677.225
+Frame: 678.226
+Frame: 679.226
+Frame: 680.227
+Frame: 681.227
+Frame: 682.227
+Frame: 683.227
+Frame: 684.228
+Frame: 685.228
+Frame: 686.229
+Frame: 687.229
+Frame: 688.229
+Frame: 689.229
+Frame: 690.23
+Frame: 691.23
+Frame: 692.231
+Frame: 693.231
+Frame: 694.231
+Frame: 695.231
+Frame: 696.232
+Frame: 697.232
+Frame: 698.233
+Frame: 699.233
+Frame: 700.233
+Frame: 701.233
+Frame: 702.234
+Frame: 703.234
+Frame: 704.235
+Frame: 705.235
+Frame: 706.235
+Frame: 707.235
+Frame: 708.236
+Frame: 709.236
+Frame: 710.237
+Frame: 711.237
+Frame: 712.237
+Frame: 713.237
+Frame: 714.238
+Frame: 715.238
+Frame: 716.239
+Frame: 717.239
+Frame: 718.239
+Frame: 719.239
+Frame: 720.24
+Frame: 721.24
+Frame: 722.241
+Frame: 723.241
+Frame: 724.241
+Frame: 725.241
+Frame: 726.242
+Frame: 727.242
+Frame: 728.243
+Frame: 729.243
+Frame: 730.243
+Frame: 731.243
+Frame: 732.244
+Frame: 733.244
+Frame: 734.245
+Frame: 735.245
+Frame: 736.245
+Frame: 737.245
+Frame: 738.246
+Frame: 739.246
+Frame: 740.247  9278654=  Txyz=-0.026696 0.0184572 0.313321  Rxyz=2.09804 -0.220286 -0.382818 
+Frame: 741.247  9278654=  Txyz=-0.0275913 0.0185496 0.314146  Rxyz=2.10201 -0.222666 -0.382157 
+Frame: 742.247  9278654=  Txyz=-0.0282264 0.0185222 0.311165  Rxyz=2.09025 -0.225129 -0.384115 
+Frame: 743.247  9278654=  Txyz=-0.0292099 0.018169 0.314166  Rxyz=2.09875 -0.221632 -0.38241 
+Frame: 744.248
+Frame: 745.248  9278654=  Txyz=-0.0304699 0.0185401 0.314074  Rxyz=2.08435 -0.22236 -0.38797 
+Frame: 746.249
+Frame: 747.249
+Frame: 748.249  9278654=  Txyz=-0.0324662 0.0184808 0.312595  Rxyz=2.09289 -0.225594 -0.383531 
+Frame: 749.249
+Frame: 750.25
+Frame: 751.25
+Frame: 752.25
+Frame: 753.25
+Frame: 754.251
+Frame: 755.251  9278654=  Txyz=-0.0396292 0.0196695 0.313014  Rxyz=2.09036 -0.236951 -0.376663 
+Frame: 756.252
+Frame: 757.252
+Frame: 758.252
+Frame: 759.252
+Frame: 760.253
+Frame: 761.253
+Frame: 762.254
+Frame: 763.254
+Frame: 764.254
+Frame: 765.254
+Frame: 766.255
+Frame: 767.255
+Frame: 768.256
+Frame: 769.256
+Frame: 770.256
+Frame: 771.256
+Frame: 772.257
+Frame: 773.257
+Frame: 774.258
+Frame: 775.258
+Frame: 776.258
+Frame: 777.258
+Frame: 778.259
+Frame: 779.259
+Frame: 780.26
+Frame: 781.26
+Frame: 782.26
+Frame: 783.26
+Frame: 784.261
+Frame: 785.261
+Frame: 786.262
+Frame: 787.262
+Frame: 788.262
+Frame: 789.262
+Frame: 790.263
+Frame: 791.263
+Frame: 792.264
+Frame: 793.264
+Frame: 794.264
+Frame: 795.264
+Frame: 796.265
+Frame: 797.265
+Frame: 798.266
+Frame: 799.266
+Frame: 800.266
+Frame: 801.266
+Frame: 802.267
+Frame: 803.267
+Frame: 804.268
+Frame: 805.268
+Frame: 806.268
+Frame: 807.268
+Frame: 808.269
+Frame: 809.269
+Frame: 810.27
+Frame: 811.27
+Frame: 812.27
+Frame: 813.27
+Frame: 814.271
+Frame: 815.271
+Frame: 816.272
+Frame: 817.272
+Frame: 818.272
+Frame: 819.272
+Frame: 820.273
+Frame: 821.273
+Frame: 822.274
+Frame: 823.274
+Frame: 824.274
+Frame: 825.274
+Frame: 826.275
+Frame: 827.275
+Frame: 828.276
+Frame: 829.276
+Frame: 830.276
+Frame: 831.276
+Frame: 832.277
+Frame: 833.277
+Frame: 834.278
+Frame: 835.278
+Frame: 836.278
+Frame: 837.278
+Frame: 838.279
+Frame: 839.279
+Frame: 840.28
+Frame: 841.28
+Frame: 842.28
+Frame: 843.28
+Frame: 844.281
+Frame: 845.281
+Frame: 846.282
+Frame: 847.282
+Frame: 848.282
+Frame: 849.282
+Frame: 850.283
+Frame: 851.283
+Frame: 852.284
+Frame: 853.284
+Frame: 854.284
+Frame: 855.284
+Frame: 856.285
+Frame: 857.285
+Frame: 858.286
+Frame: 859.286
+Frame: 860.286
+Frame: 861.286
+Frame: 862.287
+Frame: 863.287
+Frame: 864.288
+Frame: 865.288
+Frame: 866.288
+Frame: 867.288
+Frame: 868.289
+Frame: 869.289
+Frame: 870.29
+Frame: 871.29
+Frame: 872.29
+Frame: 873.29
+Frame: 874.291
+Frame: 875.291
+Frame: 876.292
+Frame: 877.292
+Frame: 878.292
+Frame: 879.292
+Frame: 880.293
+Frame: 881.293
+Frame: 882.294
+Frame: 883.294
+Frame: 884.294
+Frame: 885.294
+Frame: 886.295
+Frame: 887.295
+Frame: 888.296
+Frame: 889.296
+Frame: 890.296
+Frame: 891.296
+Frame: 892.297
+Frame: 893.297
+Frame: 894.298
+Frame: 895.298
+Frame: 896.298
+Frame: 897.298
+Frame: 898.299
+Frame: 899.299
+Frame: 900.3
+Frame: 901.3
+Frame: 902.3
+Frame: 903.3
+Frame: 904.301
+Frame: 905.301
+Frame: 906.302
+Frame: 907.302
+Frame: 908.302
+Frame: 909.302
+Frame: 910.303
+Frame: 911.303
+Frame: 912.304
+Frame: 913.304
+Frame: 914.304
+Frame: 915.304
+Frame: 916.305
+Frame: 917.305
+Frame: 918.306
+Frame: 919.306
+Frame: 920.306
+Frame: 921.306
+Frame: 922.307
+Frame: 923.307
+Frame: 924.308
+Frame: 925.308
+Frame: 926.308
+Frame: 927.308
+Frame: 928.309
+Frame: 929.309
+Frame: 930.31
+Frame: 931.31
+Frame: 932.31
+Frame: 933.31
+Frame: 934.311
+Frame: 935.311
+Frame: 936.312
+Frame: 937.312
+Frame: 938.312
+Frame: 939.312
+Frame: 940.313
+Frame: 941.313
+Frame: 942.314
+Frame: 943.314
+Frame: 944.314
+Frame: 945.314
+Frame: 946.315
+Frame: 947.315
+Frame: 948.316
+Frame: 949.316
+Frame: 950.316
+Frame: 951.316
+Frame: 952.317
+Frame: 953.317
+Frame: 954.318
+Frame: 955.318
+Frame: 956.318
+Frame: 957.318
+Frame: 958.319
+Frame: 959.319
+Frame: 960.32
+Frame: 961.32
+Frame: 962.32
+Frame: 963.32
+Frame: 964.321
+Frame: 965.321
+Frame: 966.322
+Frame: 967.322
+Frame: 968.322
+Frame: 969.322
+Frame: 970.323
+Frame: 971.323
+Frame: 972.324
+Frame: 973.324
+Frame: 974.324
+Frame: 975.324
+Frame: 976.325
+Frame: 977.325
+Frame: 978.326
+Frame: 979.326
+Frame: 980.326
+Frame: 981.326
+Frame: 982.327
+Frame: 983.327
+Frame: 984.328
+Frame: 985.328
+Frame: 986.328
+Frame: 987.328
+Frame: 988.329
+Frame: 989.329
+Frame: 990.33
+Frame: 991.33
+Frame: 992.33
+Frame: 993.33
+Frame: 994.331
+Frame: 995.331
+Frame: 996.332
+Frame: 997.332
+Frame: 998.332
+Frame: 999.332
+Frame: 1000.33
+Frame: 1001.33
+Frame: 1002.33
+Frame: 1003.33
+Frame: 1004.33
+Frame: 1005.33
+Frame: 1006.34
+Frame: 1007.34
+Frame: 1008.34
+Frame: 1009.34
+Frame: 1010.34
+Frame: 1011.34
+Frame: 1012.34
+Frame: 1013.34
+Frame: 1014.34
+Frame: 1015.34
+Frame: 1016.34
+Frame: 1017.34
+Frame: 1018.34
+Frame: 1019.34
+Frame: 1020.34
+Frame: 1021.34
+Frame: 1022.34
+Frame: 1023.34
+Frame: 1024.34
+Frame: 1025.34
+Frame: 1026.34
+Frame: 1027.34
+Frame: 1028.34
+Frame: 1029.34
+Frame: 1030.34
+Frame: 1031.34
+Frame: 1032.34
+Frame: 1033.34
+Frame: 1034.34
+Frame: 1035.34
+Frame: 1036.35
+Frame: 1037.35
+Frame: 1038.35
+Frame: 1039.35
+Frame: 1040.35
+Frame: 1041.35
+Frame: 1042.35
+Frame: 1043.35
+Frame: 1044.35
+Frame: 1045.35
+Frame: 1046.35
+Frame: 1047.35
+Frame: 1048.35
+Frame: 1049.35
+Frame: 1050.35
+Frame: 1051.35
+Frame: 1052.35
+Frame: 1053.35
+Frame: 1054.35
+Frame: 1055.35
+Frame: 1056.35
+Frame: 1057.35
+Frame: 1058.35
+Frame: 1059.35
+Frame: 1060.35
+Frame: 1061.35
+Frame: 1062.35
+Frame: 1063.35
+Frame: 1064.35
+Frame: 1065.35
+Frame: 1066.36
+Frame: 1067.36
+Frame: 1068.36
+Frame: 1069.36
+Frame: 1070.36
+Frame: 1071.36
+Frame: 1072.36
+Frame: 1073.36
+Frame: 1074.36
+Frame: 1075.36
+Frame: 1076.36
+Frame: 1077.36
+Frame: 1078.36
+Frame: 1079.36
+Frame: 1080.36
+Frame: 1081.36
+Frame: 1082.36
+Frame: 1083.36
+Frame: 1084.36
+Frame: 1085.36
+Frame: 1086.36
+Frame: 1087.36
+Frame: 1088.36
+Frame: 1089.36
+Frame: 1090.36
+Frame: 1091.36
+Frame: 1092.36
+Frame: 1093.36
+Frame: 1094.36
+Frame: 1095.36
+Frame: 1096.37
+Frame: 1097.37
+Frame: 1098.37
+Frame: 1099.37
+Frame: 1100.37
+Frame: 1101.37
+Frame: 1102.37
+Frame: 1103.37
+Frame: 1104.37
+Frame: 1105.37
+Frame: 1106.37
+Frame: 1107.37
+Frame: 1108.37
+Frame: 1109.37
+Frame: 1110.37
+Frame: 1111.37
+Frame: 1112.37
+Frame: 1113.37
+Frame: 1114.37
+Frame: 1115.37
+Frame: 1116.37
+Frame: 1117.37
+Frame: 1118.37
+Frame: 1119.37
+Frame: 1120.37
+Frame: 1121.37
+Frame: 1122.37
+Frame: 1123.37
+Frame: 1124.37
+Frame: 1125.37
+Frame: 1126.38
+Frame: 1127.38
+Frame: 1128.38
+Frame: 1129.38
+Frame: 1130.38
+Frame: 1131.38
+Frame: 1132.38
+Frame: 1133.38
+Frame: 1134.38
+Frame: 1135.38
+Frame: 1136.38
+Frame: 1137.38
+Frame: 1138.38
+Frame: 1139.38
+Frame: 1140.38
+Frame: 1141.38
+Frame: 1142.38
+Frame: 1143.38
+Frame: 1144.38
+Frame: 1145.38
+Frame: 1146.38
+Frame: 1147.38
+Frame: 1148.38
+Frame: 1149.38
+Frame: 1150.38
+Frame: 1151.38
+Frame: 1152.38
+Frame: 1153.38
+Frame: 1154.38
+Frame: 1155.38
+Frame: 1156.39
+Frame: 1157.39
+Frame: 1158.39
+Frame: 1159.39
+Frame: 1160.39
+Frame: 1161.39
+Frame: 1162.39
+Frame: 1163.39
+Frame: 1164.39
+Frame: 1165.39
+Frame: 1166.39
+Frame: 1167.39
+Frame: 1168.39
+Frame: 1169.39
+Frame: 1170.39
+Frame: 1171.39
+Frame: 1172.39
+Frame: 1173.39
+Frame: 1174.39
+Frame: 1175.39
+Frame: 1176.39
+Frame: 1177.39
+Frame: 1178.39
+Frame: 1179.39
+Frame: 1180.39
+Frame: 1181.39
+Frame: 1182.39
+Frame: 1183.39
+Frame: 1184.39
+Frame: 1185.39
+Frame: 1186.4
+Frame: 1187.4
+Frame: 1188.4
+Frame: 1189.4
+Frame: 1190.4
+Frame: 1191.4
+Frame: 1192.4
+Frame: 1193.4
+Frame: 1194.4
+Frame: 1195.4
+Frame: 1196.4
+Frame: 1197.4
+Frame: 1198.4
+Frame: 1199.4
+Frame: 1200.4
+Frame: 1201.4
+Frame: 1202.4
+Frame: 1203.4
+Frame: 1204.4
+Frame: 1205.4
+Frame: 1206.4
+Frame: 1207.4
+Frame: 1208.4
+Frame: 1209.4
+Frame: 1210.4
+Frame: 1211.4
+Frame: 1212.4
+Frame: 1213.4
+Frame: 1214.4
+Frame: 1215.4
+Frame: 1216.41
+Frame: 1217.41
+Frame: 1218.41
+Frame: 1219.41
+Frame: 1220.41
+Frame: 1221.41
+Frame: 1222.41
+Frame: 1223.41
+Frame: 1224.41
+Frame: 1225.41
+Frame: 1226.41
+Frame: 1227.41
+Frame: 1228.41
+Frame: 1229.41
+Frame: 1230.41
+Frame: 1231.41
+Frame: 1232.41
+Frame: 1233.41
+Frame: 1234.41
+Frame: 1235.41
+Frame: 1236.41
+Frame: 1237.41
+Frame: 1238.41
+Frame: 1239.41
+Frame: 1240.41
+Frame: 1241.41
+Frame: 1242.41
+Frame: 1243.41
+Frame: 1244.41
+Frame: 1245.41
+Frame: 1246.42
+Frame: 1247.42
+Frame: 1248.42
+Frame: 1249.42
+Frame: 1250.42
+Frame: 1251.42
+Frame: 1252.42
+Frame: 1253.42
+Frame: 1254.42
+Frame: 1255.42
+Frame: 1256.42
+Frame: 1257.42
+Frame: 1258.42
+Frame: 1259.42
+Frame: 1260.42
+Frame: 1261.42
+Frame: 1262.42
+Frame: 1263.42
+Frame: 1264.42
+Frame: 1265.42
+Frame: 1266.42
+Frame: 1267.42
+Frame: 1268.42
+Frame: 1269.42
+Frame: 1270.42
+Frame: 1271.42
+Frame: 1272.42
+Frame: 1273.42
+Frame: 1274.42
+Frame: 1275.42
+Frame: 1276.43
+Frame: 1277.43
+Frame: 1278.43
+Frame: 1279.43
+Frame: 1280.43
+Frame: 1281.43
+Frame: 1282.43
+Frame: 1283.43
+Frame: 1284.43
+Frame: 1285.43
+Frame: 1286.43
+Frame: 1287.43
+Frame: 1288.43
+Frame: 1289.43
+Frame: 1290.43
+Frame: 1291.43
+Frame: 1292.43
+Frame: 1293.43
+Frame: 1294.43
+Frame: 1295.43
+Frame: 1296.43
+Frame: 1297.43
+Frame: 1298.43
+Frame: 1299.43
+Frame: 1300.43
+Frame: 1301.43
+Frame: 1302.43
+Frame: 1303.43
+Frame: 1304.43
+Frame: 1305.43
+Frame: 1306.44
+Frame: 1307.44
+Frame: 1308.44
+Frame: 1309.44
+Frame: 1310.44
+Frame: 1311.44
+Frame: 1312.44
+Frame: 1313.44
+Frame: 1314.44
+Frame: 1315.44
+Frame: 1316.44
+Frame: 1317.44
+Frame: 1318.44
+Frame: 1319.44
+Frame: 1320.44
+Frame: 1321.44
+Frame: 1322.44
+Frame: 1323.44
+Frame: 1324.44
+Frame: 1325.44
+Frame: 1326.44
+Frame: 1327.44
+Frame: 1328.44
+Frame: 1329.44
+Frame: 1330.44
+Frame: 1331.44
+Frame: 1332.44
+Frame: 1333.44
+Frame: 1334.44
+Frame: 1335.44
+Frame: 1336.45
+Frame: 1337.45
+Frame: 1338.45
+Frame: 1339.45
+Frame: 1340.45
+Frame: 1341.45
+Frame: 1342.45
+Frame: 1343.45
+Frame: 1344.45
+Frame: 1345.45
+Frame: 1346.45
+Frame: 1347.45
+Frame: 1348.45
+Frame: 1349.45
+Frame: 1350.45
+Frame: 1351.45
+Frame: 1352.45
+Frame: 1353.45
+Frame: 1354.45
+Frame: 1355.45
+Frame: 1356.45
+Frame: 1357.45
+Frame: 1358.45
+Frame: 1359.45
+Frame: 1360.45
+Frame: 1361.45
+Frame: 1362.45
+Frame: 1363.45
+Frame: 1364.45
+Frame: 1365.45
+Frame: 1366.46
+Frame: 1367.46
+Frame: 1368.46
+Frame: 1369.46
+Frame: 1370.46
+Frame: 1371.46
+Frame: 1372.46
+Frame: 1373.46
+Frame: 1374.46
+Frame: 1375.46
+Frame: 1376.46
+Frame: 1377.46
+Frame: 1378.46
+Frame: 1379.46
+Frame: 1380.46
+Frame: 1381.46
+Frame: 1382.46
+Frame: 1383.46
+Frame: 1384.46
+Frame: 1385.46
+Frame: 1386.46
+Frame: 1387.46
+Frame: 1388.46
+Frame: 1389.46
+Frame: 1390.46
+Frame: 1391.46
+Frame: 1392.46
+Frame: 1393.46
+Frame: 1394.46
+Frame: 1395.46
+Frame: 1396.47
+Frame: 1397.47
+Frame: 1398.47
+Frame: 1399.47
+Frame: 1400.47
+Frame: 1401.47
+Frame: 1402.47
+Frame: 1403.47
+Frame: 1404.47
+Frame: 1405.47
+Frame: 1406.47
+Frame: 1407.47
+Frame: 1408.47
+Frame: 1409.47
+Frame: 1410.47
+Frame: 1411.47
+Frame: 1412.47
+Frame: 1413.47
+Frame: 1414.47
+Frame: 1415.47
+Frame: 1416.47
+Frame: 1417.47
+Frame: 1418.47
+Frame: 1419.47
+Frame: 1420.47
+Frame: 1421.47
+Frame: 1422.47
+Frame: 1423.47
+Frame: 1424.47
+Frame: 1425.47
+Frame: 1426.48
+Frame: 1427.48
+Frame: 1428.48
+Frame: 1429.48
+Frame: 1430.48
+Frame: 1431.48
+Frame: 1432.48
+Frame: 1433.48
+Frame: 1434.48
+Frame: 1435.48
+Frame: 1436.48
+Frame: 1437.48
+Frame: 1438.48
+Frame: 1439.48
+Frame: 1440.48
+Frame: 1441.48
+Frame: 1442.48
+Frame: 1443.48
+Frame: 1444.48
+Frame: 1445.48
+Frame: 1446.48
+Frame: 1447.48
+Frame: 1448.48
+Frame: 1449.48
+Frame: 1450.48
+Frame: 1451.48
+Frame: 1452.48
+Frame: 1453.48
+Frame: 1454.48
+Frame: 1455.48
+Frame: 1456.49
+Frame: 1457.49
+Frame: 1458.49
+Frame: 1459.49
+Frame: 1460.49
+Frame: 1461.49
+Frame: 1462.49
+Frame: 1463.49
+Frame: 1464.49
+Frame: 1465.49
+Frame: 1466.49
+Frame: 1467.49
+Frame: 1468.49
+Frame: 1469.49
+Frame: 1470.49
+Frame: 1471.49
+Frame: 1472.49
+Frame: 1473.49
+Frame: 1474.49
+Frame: 1475.49
+Frame: 1476.49
+Frame: 1477.49
+Frame: 1478.49
+Frame: 1479.49
+Frame: 1480.49
+Frame: 1481.49
+Frame: 1482.49
+Frame: 1483.49
+Frame: 1484.49
+Frame: 1485.49
+Frame: 1486.5
+Frame: 1487.5
+Frame: 1488.5
+Frame: 1489.5
+Frame: 1490.5
+Frame: 1491.5
+Frame: 1492.5
+Frame: 1493.5
+Frame: 1494.5
+Frame: 1495.5
+Frame: 1496.5
+Frame: 1497.5
+Frame: 1498.5
+Frame: 1499.5
+Frame: 1500.5
+Frame: 1501.5
+Frame: 1502.5
+Frame: 1503.5
+Frame: 1504.5
+Frame: 1505.5
+Frame: 1506.5
+Frame: 1507.5
+Frame: 1508.5
+Frame: 1509.5
+Frame: 1510.5
+Frame: 1511.5
+Frame: 1512.5
+Frame: 1513.5
+Frame: 1514.5
+Frame: 1515.5
+Frame: 1516.5
+Frame: 1517.5
+Frame: 1518.51
+Frame: 1519.51
+Frame: 1520.51
+Frame: 1521.51
+Frame: 1522.51
+Frame: 1523.51
+Frame: 1524.51
+Frame: 1525.51
+Frame: 1526.51
+Frame: 1527.51
+Frame: 1528.51
+Frame: 1529.51
+Frame: 1530.51
+Frame: 1531.51
+Frame: 1532.51
+Frame: 1533.51
+Frame: 1534.51
+Frame: 1535.51
+Frame: 1536.51
+Frame: 1537.51
+Frame: 1538.51
+Frame: 1539.51
+Frame: 1540.51
+Frame: 1541.51
+Frame: 1542.51
+Frame: 1543.51
+Frame: 1544.51
+Frame: 1545.51
+Frame: 1546.51
+Frame: 1547.51
+Frame: 1548.52
+Frame: 1549.52
+Frame: 1550.52
+Frame: 1551.52
+Frame: 1552.52
+Frame: 1553.52
+Frame: 1554.52
+Frame: 1555.52
+Frame: 1556.52
+Frame: 1557.52
+Frame: 1558.52
+Frame: 1559.52
+Frame: 1560.52
+Frame: 1561.52
+Frame: 1562.52
+Frame: 1563.52
+Frame: 1564.52
+Frame: 1565.52
+Frame: 1566.52
+Frame: 1567.52
+Frame: 1568.52
+Frame: 1569.52
+Frame: 1570.52
+Frame: 1571.52
+Frame: 1572.52
+Frame: 1573.52
+Frame: 1574.52
+Frame: 1575.52
+Frame: 1576.52
+Frame: 1577.52
+Frame: 1578.53
+Frame: 1579.53
+Frame: 1580.53
+Frame: 1581.53
+Frame: 1582.53
+Frame: 1583.53
+Frame: 1584.53
+Frame: 1585.53
+Frame: 1586.53
+Frame: 1587.53
+Frame: 1588.53
+Frame: 1589.53
+Frame: 1590.53
+Frame: 1591.53
+Frame: 1592.53
+Frame: 1593.53
+Frame: 1594.53
+Frame: 1595.53
+Frame: 1596.53
+Frame: 1597.53
+Frame: 1598.53
+Frame: 1599.53
+Frame: 1600.53
+Frame: 1601.53
+Frame: 1602.53
+Frame: 1603.53
+Frame: 1604.53
+Frame: 1605.53
+Frame: 1606.53
+Frame: 1607.53
+Frame: 1608.54
+Frame: 1609.54
+Frame: 1610.54
+Frame: 1611.54
+Frame: 1612.54
+Frame: 1613.54
+Frame: 1614.54
+Frame: 1615.54
+Frame: 1616.54
+Frame: 1617.54
+Frame: 1618.54
+Frame: 1619.54
+Frame: 1620.54
+Frame: 1621.54
+Frame: 1622.54
+Frame: 1623.54
+Frame: 1624.54
+Frame: 1625.54
+Frame: 1626.54
+Frame: 1627.54
+Frame: 1628.54
+Frame: 1629.54
+Frame: 1630.54
+Frame: 1631.54
+Frame: 1632.54
+Frame: 1633.54
+Frame: 1634.54
+Frame: 1635.54
+Frame: 1636.54
+Frame: 1637.54
+Frame: 1638.55
+Frame: 1639.55
+Frame: 1640.55
+Frame: 1641.55
+Frame: 1642.55
+Frame: 1643.55
+Frame: 1644.55
+Frame: 1645.55
+Frame: 1646.55
+Frame: 1647.55
+Frame: 1648.55
+Frame: 1649.55
+Frame: 1650.55
+Frame: 1651.55
+Frame: 1652.55
+Frame: 1653.55
+Frame: 1654.55
+Frame: 1655.55
+Frame: 1656.55
+Frame: 1657.55
+Frame: 1658.55
+Frame: 1659.55
+Frame: 1660.55
+Frame: 1661.55
+Frame: 1662.55
+Frame: 1663.55
+Frame: 1664.55
+Frame: 1665.55
+Frame: 1666.55
+Frame: 1667.55
+Frame: 1668.56
+Frame: 1669.56
+Frame: 1670.56
+Frame: 1671.56
+Frame: 1672.56
+Frame: 1673.56
+Frame: 1674.56
+Frame: 1675.56
+Frame: 1676.56
+Frame: 1677.56
+Frame: 1678.56
+Frame: 1679.56
+Frame: 1680.56
+Frame: 1681.56
+Frame: 1682.56
+Frame: 1683.56
+Frame: 1684.56
+Frame: 1685.56
+Frame: 1686.56
+Frame: 1687.56
+Frame: 1688.56
+Frame: 1689.56
+Frame: 1690.56
+Frame: 1691.56
+Frame: 1692.56
+Frame: 1693.56
+Frame: 1694.56
+Frame: 1695.56
+Frame: 1696.56
+Frame: 1697.56
+Frame: 1698.57
+Frame: 1699.57
+Frame: 1700.57
+Frame: 1701.57
+Frame: 1702.57
+Frame: 1703.57
+Frame: 1704.57
+Frame: 1705.57
+Frame: 1706.57
+Frame: 1707.57
+Frame: 1708.57
+Frame: 1709.57
+Frame: 1710.57
+Frame: 1711.57
+Frame: 1712.57
+Frame: 1713.57
+Frame: 1714.57
+Frame: 1715.57
+Frame: 1716.57
+Frame: 1717.57
+Frame: 1718.57
+Frame: 1719.57
+Frame: 1720.57
+Frame: 1721.57
+Frame: 1722.57
+Frame: 1723.57
+Frame: 1724.57
+Frame: 1725.57
+Frame: 1726.57
+Frame: 1727.57
+Frame: 1728.58
+Frame: 1729.58
+Frame: 1730.58
+Frame: 1731.58
+Frame: 1732.58
+Frame: 1733.58
+Frame: 1734.58
+Frame: 1735.58
+Frame: 1736.58
+Frame: 1737.58
+Frame: 1738.58
+Frame: 1739.58
+Frame: 1740.58
+Frame: 1741.58
+Frame: 1742.58
+Frame: 1743.58
+Frame: 1744.58
+Frame: 1745.58
+Frame: 1746.58
+Frame: 1747.58
+Frame: 1748.58
+Frame: 1749.58
+Frame: 1750.58
+Frame: 1751.58
+Frame: 1752.58
+Frame: 1753.58
+Frame: 1754.58
+Frame: 1755.58
+Frame: 1756.58
+Frame: 1757.58
+Frame: 1758.59
+Frame: 1759.59
+Frame: 1760.59
+Frame: 1761.59
+Frame: 1762.59
+Frame: 1763.59
+Frame: 1764.59
+Frame: 1765.59
+Frame: 1766.59
+Frame: 1767.59
+Frame: 1768.59
+Frame: 1769.59
+Frame: 1770.59
+Frame: 1771.59
+Frame: 1772.59
+Frame: 1773.59
+Frame: 1774.59
+Frame: 1775.59
+Frame: 1776.59
+Frame: 1777.59
+Frame: 1778.59
+Frame: 1779.59
+Frame: 1780.59
+Frame: 1781.59
+Frame: 1782.59
+Frame: 1783.59
+Frame: 1784.59
+Frame: 1785.59
+Frame: 1786.59
+Frame: 1787.59
+Frame: 1788.6
+Frame: 1789.6
+Frame: 1790.6
+Frame: 1791.6
+Frame: 1792.6
+Frame: 1793.6
+Frame: 1794.6
+Frame: 1795.6
+Frame: 1796.6
+Frame: 1797.6
+Frame: 1798.6
+Frame: 1799.6
+Frame: 1800.6
+Frame: 1801.6
+Frame: 1802.6
+Frame: 1803.6
+Frame: 1804.6
+Frame: 1805.6
+Frame: 1806.6
+Frame: 1807.6
+Frame: 1808.6
+Frame: 1809.6
+Frame: 1810.6
+Frame: 1811.6
+Frame: 1812.6
+Frame: 1813.6
+Frame: 1814.6
+Frame: 1815.6
+Frame: 1816.6
+Frame: 1817.6
+Frame: 1818.61
+Frame: 1819.61
+Frame: 1820.61
+Frame: 1821.61
+Frame: 1822.61
+Frame: 1823.61
+Frame: 1824.61
+Frame: 1825.61
+Frame: 1826.61
+Frame: 1827.61
+Frame: 1828.61
+Frame: 1829.61
+Frame: 1830.61
+Frame: 1831.61
+Frame: 1832.61
+Frame: 1833.61
+Frame: 1834.61
+Frame: 1835.61
+Frame: 1836.61
+Frame: 1837.61
+Frame: 1838.61
+Frame: 1839.61
+Frame: 1840.61
+Frame: 1841.61
+Frame: 1842.61
+Frame: 1843.61
+Frame: 1844.61
+Frame: 1845.61
+Frame: 1846.61
+Frame: 1847.61
+Frame: 1848.62
+Frame: 1849.62
+Frame: 1850.62
+Frame: 1851.62
+Frame: 1852.62
+Frame: 1853.62
+Frame: 1854.62
+Frame: 1855.62
+Frame: 1856.62
+Frame: 1857.62
+Frame: 1858.62
+Frame: 1859.62
+Frame: 1860.62
+Frame: 1861.62
+Frame: 1862.62
+Frame: 1863.62
+Frame: 1864.62
+Frame: 1865.62
+Frame: 1866.62
+Frame: 1867.62
+Frame: 1868.62
+Frame: 1869.62
+Frame: 1870.62
+Frame: 1871.62
+Frame: 1872.62
+Frame: 1873.62
+Frame: 1874.62
+Frame: 1875.62
+Frame: 1876.62
+Frame: 1877.62
+Frame: 1878.63
+Frame: 1879.63
+Frame: 1880.63
+Frame: 1881.63
+Frame: 1882.63
+Frame: 1883.63
+Frame: 1884.63
+Frame: 1885.63
+Frame: 1886.63
+Frame: 1887.63
+Frame: 1888.63
+Frame: 1889.63
+Frame: 1890.63
+Frame: 1891.63
+Frame: 1892.63
+Frame: 1893.63
+Frame: 1894.63
+Frame: 1895.63
+Frame: 1896.63
+Frame: 1897.63
+Frame: 1898.63
+Frame: 1899.63
+Frame: 1900.63
+Frame: 1901.63
+Frame: 1902.63
+Frame: 1903.63
+Frame: 1904.63
+Frame: 1905.63
+Frame: 1906.63
+Frame: 1907.63
+Frame: 1908.64
+Frame: 1909.64
+Frame: 1910.64
+Frame: 1911.64
+Frame: 1912.64
+Frame: 1913.64
+Frame: 1914.64
+Frame: 1915.64
+Frame: 1916.64
+Frame: 1917.64
+Frame: 1918.64
+Frame: 1919.64
+Frame: 1920.64
+Frame: 1921.64
+Frame: 1922.64
+Frame: 1923.64
+Frame: 1924.64
+Frame: 1925.64
+Frame: 1926.64
+Frame: 1927.64
+Frame: 1928.64
+Frame: 1929.64
+Frame: 1930.64
+Frame: 1931.64
+Frame: 1932.64
+Frame: 1933.64
+Frame: 1934.64
+Frame: 1935.64
+Frame: 1936.64
+Frame: 1937.64
+Frame: 1938.65
+Frame: 1939.65
+Frame: 1940.65
+Frame: 1941.65
+Frame: 1942.65
+Frame: 1943.65
+Frame: 1944.65
+Frame: 1945.65
+Frame: 1946.65
+Frame: 1947.65
+Frame: 1948.65
+Frame: 1949.65
+Frame: 1950.65
+Frame: 1951.65
+Frame: 1952.65
+Frame: 1953.65
+Frame: 1954.65
+Frame: 1955.65
+Frame: 1956.65
+Frame: 1957.65
+Frame: 1958.65
+Frame: 1959.65
+Frame: 1960.65
+Frame: 1961.65
+Frame: 1962.65
+Frame: 1963.65
+Frame: 1964.65
+Frame: 1965.65
+Frame: 1966.65
+Frame: 1967.65
+Frame: 1968.66
+Frame: 1969.66
+Frame: 1970.66
+Frame: 1971.66
+Frame: 1972.66
+Frame: 1973.66
+Frame: 1974.66
+Frame: 1975.66
+Frame: 1976.66
+Frame: 1977.66
+Frame: 1978.66
+Frame: 1979.66
+Frame: 1980.66
+Frame: 1981.66
+Frame: 1982.66
+Frame: 1983.66
+Frame: 1984.66
+Frame: 1985.66
+Frame: 1986.66
+Frame: 1987.66
+Frame: 1988.66
+Frame: 1989.66
+Frame: 1990.66
+Frame: 1991.66
+Frame: 1992.66
+Frame: 1993.66
+Frame: 1994.66
+Frame: 1995.66
+Frame: 1996.66
+Frame: 1997.66
+Frame: 1998.67
+Frame: 1999.67
+Frame: 2000.67
+Frame: 2001.67
+Frame: 2002.67
+Frame: 2003.67
+Frame: 2004.67
+Frame: 2005.67
+Frame: 2006.67
+Frame: 2007.67
+Frame: 2008.67
+Frame: 2009.67
+Frame: 2010.67
+Frame: 2011.67
+Frame: 2012.67
+Frame: 2013.67
+Frame: 2014.67
+Frame: 2015.67
+Frame: 2016.67
+Frame: 2017.67
+Frame: 2018.67
+Frame: 2019.67
+Frame: 2020.67
+Frame: 2021.67
+Frame: 2022.67
+Frame: 2023.67
+Frame: 2024.67
+Frame: 2025.67
+Frame: 2026.67
+Frame: 2027.67
+Frame: 2028.68
+Frame: 2029.68
+Frame: 2030.68
+Frame: 2031.68
+Frame: 2032.68
+Frame: 2033.68
+Frame: 2034.68
+Frame: 2035.68
+Frame: 2036.68
+Frame: 2037.68
+Frame: 2038.68
+Frame: 2039.68
+Frame: 2040.68
+Frame: 2041.68
+Frame: 2042.68
+Frame: 2043.68
+Frame: 2044.68
+Frame: 2045.68
+Frame: 2046.68
+Frame: 2047.68
+Frame: 2048.68
+Frame: 2049.68
+Frame: 2050.68
+Frame: 2051.68
+Frame: 2052.68
+Frame: 2053.68
+Frame: 2054.68
+Frame: 2055.68
+Frame: 2056.68
+Frame: 2057.68
+Frame: 2058.69
+Frame: 2059.69
+Frame: 2060.69
+Frame: 2061.69
+Frame: 2062.69
+Frame: 2063.69
+Frame: 2064.69
+Frame: 2065.69
+Frame: 2066.69
+Frame: 2067.69
+Frame: 2068.69
+Frame: 2069.69
+Frame: 2070.69
+Frame: 2071.69
+Frame: 2072.69
+Frame: 2073.69
+Frame: 2074.69
+Frame: 2075.69
+Frame: 2076.69
+Frame: 2077.69
+Frame: 2078.69
+Frame: 2079.69
+Frame: 2080.69
+Frame: 2081.69
+Frame: 2082.69
+Frame: 2083.69
+Frame: 2084.69
+Frame: 2085.69
+Frame: 2086.69
+Frame: 2087.69
+Frame: 2088.7
+Frame: 2089.7
+Frame: 2090.7
+Frame: 2091.7
+Frame: 2092.7
+Frame: 2093.7
+Frame: 2094.7
+Frame: 2095.7
+Frame: 2096.7
+Frame: 2097.7
+Frame: 2098.7
+Frame: 2099.7
+Frame: 2100.7
+Frame: 2101.7
+Frame: 2102.7
+Frame: 2103.7
+Frame: 2104.7
+Frame: 2105.7
+Frame: 2106.7
+Frame: 2107.7
+Frame: 2108.7
+Frame: 2109.7
+Frame: 2110.7
+Frame: 2111.7
+Frame: 2112.7
+Frame: 2113.7
+Frame: 2114.7
+Frame: 2115.7
+Frame: 2116.7
+Frame: 2117.7
+Frame: 2118.71
+Frame: 2119.71
+Frame: 2120.71
+Frame: 2121.71
+Frame: 2122.71
+Frame: 2123.71
+Frame: 2124.71
+Frame: 2125.71
+Frame: 2126.71
+Frame: 2127.71
+Frame: 2128.71
+Frame: 2129.71
+Frame: 2130.71
+Frame: 2131.71
+Frame: 2132.71
+Frame: 2133.71
+Frame: 2134.71
+Frame: 2135.71
+Frame: 2136.71
+Frame: 2137.71
+Frame: 2138.71
+Frame: 2139.71
+Frame: 2140.71
+Frame: 2141.71
+Frame: 2142.71
+Frame: 2143.71
+Frame: 2144.71
+Frame: 2145.71
+Frame: 2146.71
+Frame: 2147.71
+Frame: 2148.72
+Frame: 2149.72
+Frame: 2150.72
+Frame: 2151.72
+Frame: 2152.72
+Frame: 2153.72
+Frame: 2154.72
+Frame: 2155.72
+Frame: 2156.72
+Frame: 2157.72
+Frame: 2158.72
+Frame: 2159.72
+Frame: 2160.72
+Frame: 2161.72
+Frame: 2162.72
+Frame: 2163.72
+Frame: 2164.72
+Frame: 2165.72
+Frame: 2166.72
+Frame: 2167.72
+Frame: 2168.72
+Frame: 2169.72
+Frame: 2170.72
+Frame: 2171.72
+Frame: 2172.72
+Frame: 2173.72
+Frame: 2174.72
+Frame: 2175.72
+Frame: 2176.72
+Frame: 2177.72
+Frame: 2178.73
+Frame: 2179.73
+Frame: 2180.73
+Frame: 2181.73
+Frame: 2182.73
+Frame: 2183.73
+Frame: 2184.73
+Frame: 2185.73
+Frame: 2186.73
+Frame: 2187.73
+Frame: 2188.73
+Frame: 2189.73
+Frame: 2190.73
+Frame: 2191.73
+Frame: 2192.73
+Frame: 2193.73
+Frame: 2194.73
+Frame: 2195.73
+Frame: 2196.73
+Frame: 2197.73
+Frame: 2198.73
+Frame: 2199.73
+Frame: 2200.73
+Frame: 2201.73
+Frame: 2202.73
+Frame: 2203.73
+Frame: 2204.73
+Frame: 2205.73
+Frame: 2206.73
+Frame: 2207.73
+Frame: 2208.74
+Frame: 2209.74
+Frame: 2210.74
+Frame: 2211.74
+Frame: 2212.74
+Frame: 2213.74
+Frame: 2214.74
+Frame: 2215.74
+Frame: 2216.74
+Frame: 2217.74
+Frame: 2218.74
+Frame: 2219.74
+Frame: 2220.74
+Frame: 2221.74
+Frame: 2222.74
+Frame: 2223.74
+Frame: 2224.74
+Frame: 2225.74
+Frame: 2226.74
+Frame: 2227.74
+Frame: 2228.74
+Frame: 2229.74
+Frame: 2230.74
+Frame: 2231.74
+Frame: 2232.74
+Frame: 2233.74
+Frame: 2234.74
+Frame: 2235.74
+Frame: 2236.74
+Frame: 2237.74
+Frame: 2238.75
+Frame: 2239.75
+Frame: 2240.75
+Frame: 2241.75
+Frame: 2242.75
+Frame: 2243.75
+Frame: 2244.75
+Frame: 2245.75
+Frame: 2246.75
+Frame: 2247.75
+Frame: 2248.75
+Frame: 2249.75
+Frame: 2250.75
+Frame: 2251.75
+Frame: 2252.75
+Frame: 2253.75
+Frame: 2254.75
+Frame: 2255.75
+Frame: 2256.75
+Frame: 2257.75
+Frame: 2258.75
+Frame: 2259.75
+Frame: 2260.75
+Frame: 2261.75
+Frame: 2262.75
+Frame: 2263.75
+Frame: 2264.75
+Frame: 2265.75
+Frame: 2266.75
+Frame: 2267.75
+Frame: 2268.76
+Frame: 2269.76
+Frame: 2270.76
+Frame: 2271.76
+Frame: 2272.76
+Frame: 2273.76
+Frame: 2274.76
+Frame: 2275.76
+Frame: 2276.76
+Frame: 2277.76
+Frame: 2278.76
+Frame: 2279.76
+Frame: 2280.76
+Frame: 2281.76
+Frame: 2282.76
+Frame: 2283.76
+Frame: 2284.76
+Frame: 2285.76
+Frame: 2286.76
+Frame: 2287.76
+Frame: 2288.76
+Frame: 2289.76
+Frame: 2290.76
+Frame: 2291.76
+Frame: 2292.76
+Frame: 2293.76
+Frame: 2294.76
+Frame: 2295.76
+Frame: 2296.76
+Frame: 2297.76
+Frame: 2298.77
+Frame: 2299.77
+Frame: 2300.77
+Frame: 2301.77
+Frame: 2302.77
+Frame: 2303.77
+Frame: 2304.77
+Frame: 2305.77
+Frame: 2306.77
+Frame: 2307.77
+Frame: 2308.77
+Frame: 2309.77
+Frame: 2310.77
+Frame: 2311.77
+Frame: 2312.77
+Frame: 2313.77
+Frame: 2314.77
+Frame: 2315.77
+Frame: 2316.77
+Frame: 2317.77
+Frame: 2318.77
+Frame: 2319.77
+Frame: 2320.77
+Frame: 2321.77
+Frame: 2322.77
+Frame: 2323.77
+Frame: 2324.77
+Frame: 2325.77
+Frame: 2326.77
+Frame: 2327.77
+Frame: 2328.78
+Frame: 2329.78
+Frame: 2330.78
+Frame: 2331.78
+Frame: 2332.78
+Frame: 2333.78
+Frame: 2334.78
+Frame: 2335.78
+Frame: 2336.78
+Frame: 2337.78
+Frame: 2338.78
+Frame: 2339.78
+Frame: 2340.78
+Frame: 2341.78
+Frame: 2342.78
+Frame: 2343.78
+Frame: 2344.78
+Frame: 2345.78
+Frame: 2346.78
+Frame: 2347.78
+Frame: 2348.78
+Frame: 2349.78
+Frame: 2350.78
+Frame: 2351.78
+Frame: 2352.78
+Frame: 2353.78
+Frame: 2354.78
+Frame: 2355.78
+Frame: 2356.78
+Frame: 2357.78
+Frame: 2358.79
+Frame: 2359.79
+Frame: 2360.79
+Frame: 2361.79
+Frame: 2362.79
+Frame: 2363.79
+Frame: 2364.79
+Frame: 2365.79
+Frame: 2366.79
+Frame: 2367.79
+Frame: 2368.79
+Frame: 2369.79
+Frame: 2370.79
+Frame: 2371.79
+Frame: 2372.79
+Frame: 2373.79
+Frame: 2374.79
+Frame: 2375.79
+Frame: 2376.79
+Frame: 2377.79
+Frame: 2378.79
+Frame: 2379.79
+Frame: 2380.79
+Frame: 2381.79
+Frame: 2382.79
+Frame: 2383.79
+Frame: 2384.79
+Frame: 2385.79
+Frame: 2386.79
+Frame: 2387.79
+Frame: 2388.8
+Frame: 2389.8
+Frame: 2390.8
+Frame: 2391.8
+Frame: 2392.8
+Frame: 2393.8
+Frame: 2394.8
+Frame: 2395.8
+Frame: 2396.8
+Frame: 2397.8
+Frame: 2398.8
+Frame: 2399.8
+Frame: 2400.8
+Frame: 2401.8
+Frame: 2402.8
+Frame: 2403.8
+Frame: 2404.8
+Frame: 2405.8
+Frame: 2406.8
+Frame: 2407.8
+Frame: 2408.8
+Frame: 2409.8
+Frame: 2410.8
+Frame: 2411.8
+Frame: 2412.8
+Frame: 2413.8
+Frame: 2414.8
+Frame: 2415.8
+Frame: 2416.8
+Frame: 2417.8
+Frame: 2418.81
+Frame: 2419.81
+Frame: 2420.81
+Frame: 2421.81
+Frame: 2422.81
+Frame: 2423.81
+Frame: 2424.81
+Frame: 2425.81
+Frame: 2426.81
+Frame: 2427.81
+Frame: 2428.81
+Frame: 2429.81
+Frame: 2430.81
+Frame: 2431.81
+Frame: 2432.81
+Frame: 2433.81
+Frame: 2434.81
+Frame: 2435.81
+Frame: 2436.81
+Frame: 2437.81
+Frame: 2438.81
+Frame: 2439.81
+Frame: 2440.81
+Frame: 2441.81
+Frame: 2442.81
+Frame: 2443.81
+Frame: 2444.81
+Frame: 2445.81
+Frame: 2446.81
+Frame: 2447.81
+Frame: 2448.82
+Frame: 2449.82
+Frame: 2450.82
+Frame: 2451.82
+Frame: 2452.82
+Frame: 2453.82
+Frame: 2454.82
+Frame: 2455.82
+Frame: 2456.82
+Frame: 2457.82
+Frame: 2458.82
+Frame: 2459.82
+Frame: 2460.82
+Frame: 2461.82
+Frame: 2462.82
+Frame: 2463.82
+Frame: 2464.82
+Frame: 2465.82
+Frame: 2466.82
+Frame: 2467.82
+Frame: 2468.82
+Frame: 2469.82
+Frame: 2470.82
+Frame: 2471.82
+Frame: 2472.82
+Frame: 2473.82
+Frame: 2474.82
+Frame: 2475.82
+Frame: 2476.82
+Frame: 2477.82
+Frame: 2478.83
+Frame: 2479.83
+Frame: 2480.83
+Frame: 2481.83
+Frame: 2482.83
+Frame: 2483.83
+Frame: 2484.83
+Frame: 2485.83
+Frame: 2486.83
+Frame: 2487.83
+Frame: 2488.83
+Frame: 2489.83
+Frame: 2490.83
+Frame: 2491.83  9278654=  Txyz=0.0438162 -0.0231892 0.1797  Rxyz=2.90502 0.0794851 -0.759974 
+Frame: 2492.83
+Frame: 2493.83  9278654=  Txyz=0.0425284 -0.0237616 0.18043  Rxyz=2.90271 0.081203 -0.758022 
+Frame: 2494.83  9278654=  Txyz=0.0420018 -0.0239297 0.181197  Rxyz=2.89969 0.0819223 -0.758909 
+Frame: 2495.83  9278654=  Txyz=0.041121 -0.0240967 0.18117  Rxyz=2.89582 0.0825563 -0.75785 
+Frame: 2496.83  9278654=  Txyz=0.0402954 -0.0242311 0.181378  Rxyz=2.90703 0.0789966 -0.755276 
+Frame: 2497.83  9278654=  Txyz=0.0397655 -0.0244344 0.182358  Rxyz=2.89634 0.0826863 -0.754349 
+Frame: 2498.83  9278654=  Txyz=0.0387098 -0.0245221 0.182399  Rxyz=2.90659 0.0779065 -0.746581 
+Frame: 2499.83  9278654=  Txyz=0.0376176 -0.024461 0.182319  Rxyz=2.89819 0.0767789 -0.744141 
+Frame: 2500.83  9278654=  Txyz=0.0367125 -0.0245971 0.18294  Rxyz=2.90234 0.0758341 -0.742467 
+Frame: 2501.83  9278654=  Txyz=0.0359165 -0.0245132 0.183116  Rxyz=2.89488 0.0734132 -0.745193 
+Frame: 2502.83  9278654=  Txyz=0.0351506 -0.0244326 0.183022  Rxyz=2.89497 0.073003 -0.743352 
+Frame: 2503.83  9278654=  Txyz=0.0345989 -0.0244776 0.183314  Rxyz=2.89446 0.071815 -0.74286 
+Frame: 2504.83  9278654=  Txyz=0.0342368 -0.0247089 0.184077  Rxyz=2.89382 0.0761254 -0.744625 
+Frame: 2505.83  9278654=  Txyz=0.0335251 -0.0247956 0.183688  Rxyz=2.89218 0.0752973 -0.741539 
+Frame: 2506.83  9278654=  Txyz=0.033113 -0.024945 0.183635  Rxyz=2.89399 0.0725021 -0.744223 
+Frame: 2507.83  9278654=  Txyz=0.032761 -0.0251458 0.183595  Rxyz=2.89146 0.0746861 -0.74519 
+Frame: 2508.84  9278654=  Txyz=0.0324123 -0.025263 0.183322  Rxyz=2.8935 0.0745678 -0.746702 
+Frame: 2509.84  9278654=  Txyz=0.0324039 -0.0253986 0.183762  Rxyz=2.89306 0.0793861 -0.750886 
+Frame: 2510.84  9278654=  Txyz=0.0320088 -0.0253657 0.183021  Rxyz=2.89419 0.0766575 -0.749493 
+Frame: 2511.84  9278654=  Txyz=0.0319404 -0.0254439 0.183368  Rxyz=2.89255 0.0793392 -0.75459 
+Frame: 2512.84  9278654=  Txyz=0.0314774 -0.0253393 0.182779  Rxyz=2.89128 0.0775409 -0.753199 
+Frame: 2513.84  9278654=  Txyz=0.0311993 -0.025502 0.182957  Rxyz=2.89161 0.0794213 -0.752689 
+Frame: 2514.84  9278654=  Txyz=0.0310187 -0.0255459 0.183084  Rxyz=2.8879 0.0821083 -0.756775 
+Frame: 2515.84  9278654=  Txyz=0.0306187 -0.0256778 0.182678  Rxyz=2.88993 0.083777 -0.753484 
+Frame: 2516.84  9278654=  Txyz=0.0304134 -0.0258545 0.182355  Rxyz=2.89462 0.0802704 -0.752795 
+Frame: 2517.84  9278654=  Txyz=0.0308407 -0.0258945 0.182187  Rxyz=2.8885 0.0823661 -0.756358 
+Frame: 2518.84  9278654=  Txyz=0.0311009 -0.0260626 0.181943  Rxyz=2.88857 0.0863886 -0.759155 
+Frame: 2519.84  9278654=  Txyz=0.03135 -0.0262142 0.181983  Rxyz=2.88876 0.0880631 -0.764241 
+Frame: 2520.84  9278654=  Txyz=0.0314584 -0.0262831 0.18186  Rxyz=2.8906 0.0893129 -0.764077 
+Frame: 2521.84  9278654=  Txyz=0.0314753 -0.0263141 0.181863  Rxyz=2.89093 0.0906649 -0.764252 
+Frame: 2522.84  9278654=  Txyz=0.0313077 -0.0264154 0.181877  Rxyz=2.88788 0.0918419 -0.764842 
+Frame: 2523.84  9278654=  Txyz=0.031222 -0.0264309 0.181798  Rxyz=2.88552 0.0919216 -0.764896 
+Frame: 2524.84  9278654=  Txyz=0.0313038 -0.0265004 0.181888  Rxyz=2.8875 0.091433 -0.766639 
+Frame: 2525.84  9278654=  Txyz=0.0313569 -0.0266401 0.182303  Rxyz=2.88568 0.0948179 -0.76716 
+Frame: 2526.84  9278654=  Txyz=0.0312174 -0.0268039 0.18268  Rxyz=2.88452 0.0962684 -0.765558 
+Frame: 2527.84  9278654=  Txyz=0.0308703 -0.0269216 0.182672  Rxyz=2.88701 0.0939574 -0.763002 
+Frame: 2528.84  9278654=  Txyz=0.0307332 -0.027158 0.183274  Rxyz=2.88483 0.0970501 -0.761092 
+Frame: 2529.84  9278654=  Txyz=0.0305119 -0.0274681 0.18382  Rxyz=2.88529 0.0982317 -0.75853 
+Frame: 2530.84  9278654=  Txyz=0.0301322 -0.0275672 0.183851  Rxyz=2.88769 0.0967805 -0.754888 
+Frame: 2531.84  9278654=  Txyz=0.0298894 -0.027611 0.184205  Rxyz=2.8842 0.0974262 -0.753931 
+Frame: 2532.84  9278654=  Txyz=0.0296605 -0.0276986 0.18465  Rxyz=2.88724 0.0954616 -0.753764 
+Frame: 2533.84  9278654=  Txyz=0.0295062 -0.0276969 0.185188  Rxyz=2.87987 0.0978908 -0.755447 
+Frame: 2534.84  9278654=  Txyz=0.0293952 -0.0277462 0.185479  Rxyz=2.87976 0.0950898 -0.757493 
+Frame: 2535.84  9278654=  Txyz=0.029177 -0.0278661 0.185357  Rxyz=2.88394 0.093723 -0.758209 
+Frame: 2536.84  9278654=  Txyz=0.029209 -0.0282071 0.186379  Rxyz=2.88005 0.100011 -0.761625 
+Frame: 2537.84  9278654=  Txyz=0.0289477 -0.028326 0.186076  Rxyz=2.87984 0.097277 -0.764955 
+Frame: 2538.85  9278654=  Txyz=0.028791 -0.0284133 0.185901  Rxyz=2.87872 0.0972202 -0.76723 
+Frame: 2539.85  9278654=  Txyz=0.0286636 -0.0286707 0.186512  Rxyz=2.88107 0.100001 -0.767981 
+Frame: 2540.85  9278654=  Txyz=0.0284521 -0.0287718 0.186689  Rxyz=2.87577 0.101448 -0.770819 
+Frame: 2541.85  9278654=  Txyz=0.0283577 -0.0289767 0.187227  Rxyz=2.87611 0.103198 -0.771321 
+Frame: 2542.85  9278654=  Txyz=0.0280335 -0.0291329 0.187203  Rxyz=2.87499 0.103863 -0.768892 
+Frame: 2543.85  9278654=  Txyz=0.0278762 -0.0294592 0.188156  Rxyz=2.87709 0.105377 -0.768762 
+Frame: 2544.85  9278654=  Txyz=0.0275653 -0.0295694 0.188387  Rxyz=2.87513 0.104362 -0.769175 
+Frame: 2545.85  9278654=  Txyz=0.0271566 -0.0297593 0.188753  Rxyz=2.87562 0.103808 -0.765972 
+Frame: 2546.85  9278654=  Txyz=0.0268751 -0.0299404 0.189399  Rxyz=2.87298 0.105064 -0.765656 
+Frame: 2547.85  9278654=  Txyz=0.0266629 -0.0301221 0.189986  Rxyz=2.87153 0.105571 -0.765914 
+Frame: 2548.85  9278654=  Txyz=0.0263135 -0.0304083 0.190631  Rxyz=2.87543 0.104357 -0.764831 
+Frame: 2549.85  9278654=  Txyz=0.025826 -0.0306095 0.19072  Rxyz=2.87364 0.102951 -0.76362 
+Frame: 2550.85  9278654=  Txyz=0.0255967 -0.0308913 0.191302  Rxyz=2.87342 0.104968 -0.763983 
+Frame: 2551.85  9278654=  Txyz=0.0253043 -0.0310775 0.191431  Rxyz=2.87395 0.104456 -0.762092 
+Frame: 2552.85  9278654=  Txyz=0.0251842 -0.0313765 0.192329  Rxyz=2.87295 0.10737 -0.762761 
+Frame: 2553.85  9278654=  Txyz=0.0247658 -0.031614 0.19294  Rxyz=2.87275 0.108878 -0.760867 
+Frame: 2554.85  9278654=  Txyz=0.0242761 -0.0317516 0.193386  Rxyz=2.87163 0.106838 -0.760674 
+Frame: 2555.85  9278654=  Txyz=0.024007 -0.0318181 0.19357  Rxyz=2.86706 0.10517 -0.760593 
+Frame: 2556.85  9278654=  Txyz=0.0239264 -0.0321175 0.194457  Rxyz=2.86834 0.107825 -0.76049 
+Frame: 2557.85  9278654=  Txyz=0.023561 -0.0324621 0.195131  Rxyz=2.87139 0.111132 -0.758103 
+Frame: 2558.85  9278654=  Txyz=0.0230797 -0.0326239 0.195207  Rxyz=2.86664 0.109219 -0.756173 
+Frame: 2559.85  9278654=  Txyz=0.0229093 -0.0329728 0.195952  Rxyz=2.86957 0.110397 -0.756213 
+Frame: 2560.85  9278654=  Txyz=0.0226083 -0.0333255 0.196729  Rxyz=2.87062 0.111932 -0.754761 
+Frame: 2561.85  9278654=  Txyz=0.0221649 -0.0335588 0.196834  Rxyz=2.86926 0.110768 -0.754056 
+Frame: 2562.85  9278654=  Txyz=0.0218404 -0.0338151 0.197351  Rxyz=2.86832 0.109946 -0.752566 
+Frame: 2563.85  9278654=  Txyz=0.0215464 -0.0341325 0.198066  Rxyz=2.87 0.111504 -0.752558 
+Frame: 2564.85  9278654=  Txyz=0.0212115 -0.0342216 0.197954  Rxyz=2.86413 0.109498 -0.751278 
+Frame: 2565.85  9278654=  Txyz=0.0210416 -0.0345264 0.198909  Rxyz=2.86504 0.11207 -0.750124 
+Frame: 2566.85  9278654=  Txyz=0.0206637 -0.0348654 0.19954  Rxyz=2.86437 0.112738 -0.749389 
+Frame: 2567.85  9278654=  Txyz=0.0203413 -0.0350894 0.199591  Rxyz=2.8639 0.110017 -0.749879 
+Frame: 2568.86  9278654=  Txyz=0.0201485 -0.0355214 0.200362  Rxyz=2.86415 0.112845 -0.750007 
+Frame: 2569.86  9278654=  Txyz=0.019787 -0.0357794 0.200354  Rxyz=2.86486 0.109853 -0.749574 
+Frame: 2570.86  9278654=  Txyz=0.0196014 -0.0361459 0.201191  Rxyz=2.86412 0.1143 -0.749358 
+Frame: 2571.86  9278654=  Txyz=0.0192217 -0.0362469 0.20114  Rxyz=2.86226 0.110894 -0.747744 
+Frame: 2572.86  9278654=  Txyz=0.0192184 -0.0364721 0.201678  Rxyz=2.85923 0.113172 -0.747999 
+Frame: 2573.86  9278654=  Txyz=0.0192319 -0.0367438 0.202291  Rxyz=2.86021 0.11578 -0.749034 
+Frame: 2574.86  9278654=  Txyz=0.0189926 -0.0370531 0.202713  Rxyz=2.8595 0.115531 -0.749624 
+Frame: 2575.86  9278654=  Txyz=0.018473 -0.0372512 0.202426  Rxyz=2.859 0.114041 -0.748859 
+Frame: 2576.86  9278654=  Txyz=0.0182719 -0.0374817 0.20255  Rxyz=2.85827 0.112154 -0.751462 
+Frame: 2577.86  9278654=  Txyz=0.0181618 -0.0377682 0.202983  Rxyz=2.85617 0.114248 -0.753278 
+Frame: 2578.86  9278654=  Txyz=0.0178007 -0.0379584 0.202942  Rxyz=2.85624 0.112118 -0.752353 
+Frame: 2579.86  9278654=  Txyz=0.0177876 -0.0382755 0.20373  Rxyz=2.85483 0.114497 -0.755217 
+Frame: 2580.86  9278654=  Txyz=0.0176798 -0.0384243 0.203916  Rxyz=2.85418 0.115468 -0.754823 
+Frame: 2581.86  9278654=  Txyz=0.01739 -0.0386627 0.204424  Rxyz=2.85645 0.114434 -0.754751 
+Frame: 2582.86  9278654=  Txyz=0.017013 -0.0387274 0.204233  Rxyz=2.85424 0.112435 -0.752904 
+Frame: 2583.86  9278654=  Txyz=0.0168842 -0.0390236 0.204992  Rxyz=2.85585 0.113153 -0.753254 
+Frame: 2584.86  9278654=  Txyz=0.0166372 -0.0392804 0.205502  Rxyz=2.85298 0.115551 -0.75128 
+Frame: 2585.86  9278654=  Txyz=0.0163222 -0.0395514 0.206112  Rxyz=2.85282 0.114579 -0.750643 
+Frame: 2586.86  9278654=  Txyz=0.0159691 -0.0398214 0.206459  Rxyz=2.85414 0.11549 -0.749529 
+Frame: 2587.86  9278654=  Txyz=0.0157341 -0.0400504 0.206704  Rxyz=2.85332 0.114568 -0.748551 
+Frame: 2588.86  9278654=  Txyz=0.0154232 -0.0403807 0.207032  Rxyz=2.85431 0.11554 -0.745982 
+Frame: 2589.86  9278654=  Txyz=0.0151179 -0.040824 0.207646  Rxyz=2.85587 0.117805 -0.74522 
+Frame: 2590.86  9278654=  Txyz=0.0146856 -0.0409993 0.207515  Rxyz=2.8542 0.115851 -0.74222 
+Frame: 2591.86  9278654=  Txyz=0.0144397 -0.0413835 0.208555  Rxyz=2.85383 0.118734 -0.742713 
+Frame: 2592.86  9278654=  Txyz=0.0140128 -0.0415364 0.208971  Rxyz=2.85436 0.116762 -0.741917 
+Frame: 2593.86  9278654=  Txyz=0.0134758 -0.0415532 0.209053  Rxyz=2.85346 0.113301 -0.739462 
+Frame: 2594.86  9278654=  Txyz=0.0131265 -0.0419035 0.210041  Rxyz=2.85437 0.114693 -0.738778 
+Frame: 2595.86  9278654=  Txyz=0.0127516 -0.0422343 0.210664  Rxyz=2.85338 0.115511 -0.737656 
+Frame: 2596.86  9278654=  Txyz=0.0122899 -0.0426162 0.211073  Rxyz=2.85427 0.116371 -0.735809 
+Frame: 2597.86  9278654=  Txyz=0.0117623 -0.0429637 0.211201  Rxyz=2.85498 0.114566 -0.7338 
+Frame: 2598.87  9278654=  Txyz=0.0112132 -0.0432291 0.211372  Rxyz=2.85476 0.113166 -0.732122 
+Frame: 2599.87  9278654=  Txyz=0.0108104 -0.0436302 0.212185  Rxyz=2.85439 0.113243 -0.732803 
+Frame: 2600.87  9278654=  Txyz=0.0103496 -0.0438212 0.212247  Rxyz=2.85541 0.112129 -0.731613 
+Frame: 2601.87  9278654=  Txyz=0.00994378 -0.0440953 0.212775  Rxyz=2.8535 0.111679 -0.731328 
+Frame: 2602.87  9278654=  Txyz=0.00957548 -0.0442649 0.212839  Rxyz=2.85356 0.107778 -0.732893 
+Frame: 2603.87  9278654=  Txyz=0.0093613 -0.0445423 0.213218  Rxyz=2.85282 0.108602 -0.732392 
+Frame: 2604.87  9278654=  Txyz=0.0091525 -0.0447557 0.213232  Rxyz=2.85433 0.10674 -0.732377 
+Frame: 2605.87  9278654=  Txyz=0.00896083 -0.0450861 0.213603  Rxyz=2.85306 0.108408 -0.733806 
+Frame: 2606.87  9278654=  Txyz=0.00872925 -0.0453995 0.214245  Rxyz=2.84973 0.109154 -0.733081 
+Frame: 2607.87  9278654=  Txyz=0.00844664 -0.0456845 0.214636  Rxyz=2.84977 0.10693 -0.734622 
+Frame: 2608.87  9278654=  Txyz=0.00823598 -0.046112 0.215533  Rxyz=2.84924 0.107731 -0.735099 
+Frame: 2609.87  9278654=  Txyz=0.00787441 -0.0462603 0.215271  Rxyz=2.84723 0.104468 -0.73383 
+Frame: 2610.87  9278654=  Txyz=0.00761976 -0.0468535 0.216434  Rxyz=2.84904 0.108174 -0.733382 
+Frame: 2611.87  9278654=  Txyz=0.00712463 -0.0471805 0.216813  Rxyz=2.84723 0.108741 -0.730191 
+Frame: 2612.87  9278654=  Txyz=0.00660132 -0.0474748 0.217358  Rxyz=2.84713 0.105942 -0.729521 
+Frame: 2613.87  9278654=  Txyz=0.00606915 -0.0476343 0.21743  Rxyz=2.84603 0.102317 -0.72725 
+Frame: 2614.87  9278654=  Txyz=0.00565747 -0.0479885 0.218141  Rxyz=2.8444 0.103742 -0.725268 
+Frame: 2615.87  9278654=  Txyz=0.00524742 -0.0482693 0.218517  Rxyz=2.84383 0.104241 -0.724559 
+Frame: 2616.87  9278654=  Txyz=0.0047428 -0.0484403 0.218401  Rxyz=2.84476 0.101176 -0.722343 
+Frame: 2617.87  9278654=  Txyz=0.00431041 -0.0488771 0.219188  Rxyz=2.84253 0.103816 -0.721891 
+Frame: 2618.87  9278654=  Txyz=0.00379948 -0.0492331 0.219607  Rxyz=2.8421 0.104341 -0.72057 
+Frame: 2619.87  9278654=  Txyz=0.00317921 -0.0494166 0.219385  Rxyz=2.83886 0.101474 -0.717573 
+Frame: 2620.87  9278654=  Txyz=0.00265219 -0.0496787 0.21953  Rxyz=2.83892 0.0983917 -0.717302 
+Frame: 2621.87  9278654=  Txyz=0.00226879 -0.0500455 0.219975  Rxyz=2.83974 0.100641 -0.717257 
+Frame: 2622.87  9278654=  Txyz=0.00198921 -0.0504424 0.220548  Rxyz=2.83951 0.10156 -0.716943 
+Frame: 2623.87  9278654=  Txyz=0.00153109 -0.0506705 0.22035  Rxyz=2.83682 0.10139 -0.713141 
+Frame: 2624.87  9278654=  Txyz=0.00101129 -0.0510927 0.22074  Rxyz=2.83466 0.101767 -0.709661 
+Frame: 2625.87  9278654=  Txyz=0.000427068 -0.0515199 0.220998  Rxyz=2.83541 0.098504 -0.709377 
+Frame: 2626.87  9278654=  Txyz=-0.000115875 -0.0519654 0.221006  Rxyz=2.83516 0.0977375 -0.708735 
+Frame: 2627.87  9278654=  Txyz=-0.000522323 -0.0524756 0.221212  Rxyz=2.83271 0.0963506 -0.707665 
+Frame: 2628.88  9278654=  Txyz=-0.000830489 -0.0530305 0.221546  Rxyz=2.83262 0.100146 -0.707074 
+Frame: 2629.88  9278654=  Txyz=-0.00109785 -0.0537945 0.222475  Rxyz=2.83432 0.102442 -0.708374 
+Frame: 2630.88  9278654=  Txyz=-0.00149892 -0.0542589 0.222533  Rxyz=2.83154 0.102723 -0.705422 
+Frame: 2631.88  9278654=  Txyz=-0.00200786 -0.054643 0.222425  Rxyz=2.83179 0.100361 -0.701747 
+Frame: 2632.88  9278654=  Txyz=-0.00256358 -0.0551307 0.222882  Rxyz=2.83269 0.102377 -0.70016 
+Frame: 2633.88  9278654=  Txyz=-0.00324423 -0.0555513 0.223304  Rxyz=2.83035 0.0993569 -0.698915 
+Frame: 2634.88  9278654=  Txyz=-0.00391695 -0.0560101 0.223552  Rxyz=2.8282 0.0977847 -0.698769 
+Frame: 2635.88  9278654=  Txyz=-0.00453432 -0.0562696 0.223247  Rxyz=2.82828 0.0963335 -0.698809 
+Frame: 2636.88  9278654=  Txyz=-0.00508204 -0.056913 0.224051  Rxyz=2.82585 0.096989 -0.699766 
+Frame: 2637.88  9278654=  Txyz=-0.00583068 -0.0574962 0.224718  Rxyz=2.82661 0.0972273 -0.698592 
+Frame: 2638.88  9278654=  Txyz=-0.00674513 -0.0579149 0.225063  Rxyz=2.82739 0.0973381 -0.697881 
+Frame: 2639.88  9278654=  Txyz=-0.00762879 -0.0580939 0.224864  Rxyz=2.8246 0.0918485 -0.697746 
+Frame: 2640.88  9278654=  Txyz=-0.0083883 -0.0585049 0.225449  Rxyz=2.81808 0.0886557 -0.698929 
+Frame: 2641.88  9278654=  Txyz=-0.009099 -0.0588158 0.225772  Rxyz=2.81822 0.0879342 -0.699761 
+Frame: 2642.88  9278654=  Txyz=-0.00987166 -0.0591659 0.226254  Rxyz=2.81885 0.0850609 -0.69945 
+Frame: 2643.88  9278654=  Txyz=-0.0107574 -0.0595747 0.226797  Rxyz=2.81544 0.0843487 -0.697343 
+Frame: 2644.88  9278654=  Txyz=-0.011739 -0.0598979 0.226693  Rxyz=2.81674 0.0814911 -0.695678 
+Frame: 2645.88  9278654=  Txyz=-0.0125567 -0.0604091 0.226984  Rxyz=2.81551 0.0794933 -0.697894 
+Frame: 2646.88  9278654=  Txyz=-0.0133436 -0.0607126 0.226666  Rxyz=2.81334 0.0782539 -0.695478 
+Frame: 2647.88  9278654=  Txyz=-0.0140572 -0.0612751 0.227112  Rxyz=2.81203 0.0774213 -0.69518 
+Frame: 2648.88  9278654=  Txyz=-0.01474 -0.0617871 0.227752  Rxyz=2.81128 0.079582 -0.695728 
+Frame: 2649.88  9278654=  Txyz=-0.0155136 -0.0619428 0.227569  Rxyz=2.81046 0.0772196 -0.69276 
+Frame: 2650.88  9278654=  Txyz=-0.0162693 -0.0620921 0.228085  Rxyz=2.80473 0.0740175 -0.691101 
+Frame: 2651.88  9278654=  Txyz=-0.0168542 -0.0619034 0.22792  Rxyz=2.79555 0.0725923 -0.689425 
+Frame: 2652.88  9278654=  Txyz=-0.0173131 -0.0620794 0.22862  Rxyz=2.79293 0.0759418 -0.687387 
+Frame: 2653.88  9278654=  Txyz=-0.0176434 -0.0622809 0.229061  Rxyz=2.79177 0.076724 -0.68609 
+Frame: 2654.88  9278654=  Txyz=-0.0178345 -0.0627397 0.229861  Rxyz=2.78764 0.0807603 -0.683484 
+Frame: 2655.88  9278654=  Txyz=-0.0179842 -0.062989 0.229827  Rxyz=2.78325 0.0831043 -0.676121 
+Frame: 2656.88  9278654=  Txyz=-0.0182753 -0.0637581 0.230677  Rxyz=2.78313 0.0915213 -0.67124 
+Frame: 2657.88  9278654=  Txyz=-0.0188466 -0.0640856 0.23045  Rxyz=2.78317 0.0920391 -0.661364 
+Frame: 2658.89  9278654=  Txyz=-0.0194805 -0.0643692 0.230158  Rxyz=2.78137 0.0925881 -0.653222 
+Frame: 2659.89  9278654=  Txyz=-0.0199627 -0.0649537 0.231137  Rxyz=2.77906 0.0958333 -0.651819 
+Frame: 2660.89  9278654=  Txyz=-0.0204177 -0.06517 0.231181  Rxyz=2.77732 0.0960873 -0.646376 
+Frame: 2661.89  9278654=  Txyz=-0.0208257 -0.0654464 0.231439  Rxyz=2.77492 0.0985503 -0.64361 
+Frame: 2662.89  9278654=  Txyz=-0.0212161 -0.0658228 0.231839  Rxyz=2.77537 0.0990092 -0.643554 
+Frame: 2663.89  9278654=  Txyz=-0.021633 -0.0660125 0.231756  Rxyz=2.77163 0.0980359 -0.64167 
+Frame: 2664.89  9278654=  Txyz=-0.0221501 -0.0662975 0.231996  Rxyz=2.77355 0.0981844 -0.644346 
+Frame: 2665.89  9278654=  Txyz=-0.0226772 -0.0663688 0.232048  Rxyz=2.77092 0.0956524 -0.646892 
+Frame: 2666.89  9278654=  Txyz=-0.0231978 -0.0663337 0.232532  Rxyz=2.7676 0.0937505 -0.651744 
+Frame: 2667.89  9278654=  Txyz=-0.0237337 -0.0659338 0.23249  Rxyz=2.76287 0.0904548 -0.652423 
+Frame: 2668.89  9278654=  Txyz=-0.0242687 -0.0657851 0.233579  Rxyz=2.7615 0.0917811 -0.656627 
+Frame: 2669.89  9278654=  Txyz=-0.0248723 -0.0653654 0.233683  Rxyz=2.75852 0.0893712 -0.654109 
+Frame: 2670.89  9278654=  Txyz=-0.0256737 -0.0652897 0.234365  Rxyz=2.75641 0.0899586 -0.652867 
+Frame: 2671.89  9278654=  Txyz=-0.0266382 -0.0656782 0.235924  Rxyz=2.75828 0.0928548 -0.655985 
+Frame: 2672.89  9278654=  Txyz=-0.0275717 -0.0653797 0.235053  Rxyz=2.75484 0.0885084 -0.650143 
+Frame: 2673.89  9278654=  Txyz=-0.0283119 -0.0653406 0.234916  Rxyz=2.75188 0.0894795 -0.647978 
+Frame: 2674.89  9278654=  Txyz=-0.0289468 -0.065559 0.235684  Rxyz=2.75035 0.0930154 -0.648003 
+Frame: 2675.89  9278654=  Txyz=-0.0293654 -0.0652652 0.235212  Rxyz=2.75023 0.0929304 -0.642073 
+Frame: 2676.89  9278654=  Txyz=-0.0296609 -0.0651181 0.235492  Rxyz=2.74376 0.0960491 -0.636942 
+Frame: 2677.89  9278654=  Txyz=-0.0301959 -0.0652953 0.236877  Rxyz=2.74164 0.101262 -0.634066 
+Frame: 2678.89  9278654=  Txyz=-0.0308613 -0.0652465 0.237134  Rxyz=2.74003 0.102283 -0.630111 
+Frame: 2679.89  9278654=  Txyz=-0.0313757 -0.0652239 0.236581  Rxyz=2.73718 0.101898 -0.625184 
+Frame: 2680.89  9278654=  Txyz=-0.0318349 -0.0656332 0.236948  Rxyz=2.7398 0.106051 -0.623385 
+Frame: 2681.89  9278654=  Txyz=-0.0322086 -0.0659337 0.237022  Rxyz=2.73736 0.108443 -0.621168 
+Frame: 2682.89  9278654=  Txyz=-0.0324606 -0.0662289 0.237373  Rxyz=2.73564 0.11081 -0.62089 
+Frame: 2683.89  9278654=  Txyz=-0.0325069 -0.0661954 0.237227  Rxyz=2.73157 0.112576 -0.619533 
+Frame: 2684.89  9278654=  Txyz=-0.0325528 -0.0662079 0.237729  Rxyz=2.72928 0.115274 -0.621362 
+Frame: 2685.89  9278654=  Txyz=-0.0327413 -0.0661916 0.238361  Rxyz=2.72525 0.116741 -0.623236 
+Frame: 2686.89  9278654=  Txyz=-0.0329102 -0.0660179 0.238722  Rxyz=2.72115 0.116005 -0.623703 
+Frame: 2687.89  9278654=  Txyz=-0.0330614 -0.0660283 0.239349  Rxyz=2.71919 0.117299 -0.627285 
+Frame: 2688.9  9278654=  Txyz=-0.0332519 -0.0659077 0.239227  Rxyz=2.71728 0.116654 -0.628479 
+Frame: 2689.9  9278654=  Txyz=-0.033459 -0.0659859 0.240095  Rxyz=2.71281 0.118536 -0.633667 
+Frame: 2690.9  9278654=  Txyz=-0.0336852 -0.0657659 0.24015  Rxyz=2.71108 0.118147 -0.633014 
+Frame: 2691.9  9278654=  Txyz=-0.0340755 -0.0657771 0.241153  Rxyz=2.7054 0.119553 -0.634165 
+Frame: 2692.9  9278654=  Txyz=-0.0345995 -0.0655353 0.241541  Rxyz=2.70044 0.117658 -0.632213 
+Frame: 2693.9  9278654=  Txyz=-0.0350856 -0.0653355 0.241553  Rxyz=2.69937 0.116551 -0.629831 
+Frame: 2694.9  9278654=  Txyz=-0.0355486 -0.065371 0.24238  Rxyz=2.69656 0.117652 -0.630744 
+Frame: 2695.9  9278654=  Txyz=-0.0359547 -0.0652525 0.242409  Rxyz=2.69451 0.117185 -0.628143 
+Frame: 2696.9  9278654=  Txyz=-0.0362973 -0.0653532 0.24298  Rxyz=2.69145 0.119762 -0.629117 
+Frame: 2697.9  9278654=  Txyz=-0.036562 -0.065506 0.243155  Rxyz=2.68943 0.121056 -0.630114 
+Frame: 2698.9  9278654=  Txyz=-0.0368246 -0.0654844 0.242688  Rxyz=2.6873 0.120587 -0.626766 
+Frame: 2699.9  9278654=  Txyz=-0.0371378 -0.0655672 0.242741  Rxyz=2.68402 0.12225 -0.628674 
+Frame: 2700.9  9278654=  Txyz=-0.0374964 -0.0656604 0.242909  Rxyz=2.68276 0.122804 -0.629972 
+Frame: 2701.9  9278654=  Txyz=-0.0380367 -0.0658446 0.243413  Rxyz=2.68263 0.124283 -0.633046 
+Frame: 2702.9  9278654=  Txyz=-0.0386662 -0.0659858 0.243409  Rxyz=2.68222 0.12195 -0.634044 
+Frame: 2703.9  9278654=  Txyz=-0.0391361 -0.0660401 0.243143  Rxyz=2.67958 0.121198 -0.636398 
+Frame: 2704.9  9278654=  Txyz=-0.0395187 -0.0662603 0.243524  Rxyz=2.67711 0.12046 -0.639173 
+Frame: 2705.9  9278654=  Txyz=-0.0396792 -0.0662669 0.2432  Rxyz=2.67239 0.120412 -0.638834 
+Frame: 2706.9  9278654=  Txyz=-0.0397668 -0.0665212 0.243602  Rxyz=2.67016 0.122536 -0.639664 
+Frame: 2707.9  9278654=  Txyz=-0.0398249 -0.0669072 0.244308  Rxyz=2.66724 0.12711 -0.64082 
+Frame: 2708.9  9278654=  Txyz=-0.0401404 -0.0671442 0.244277  Rxyz=2.6676 0.130301 -0.635119 
+Frame: 2709.9  9278654=  Txyz=-0.0407222 -0.0672628 0.244314  Rxyz=2.66464 0.130239 -0.633265 
+Frame: 2710.9  9278654=  Txyz=-0.0413876 -0.0674882 0.244765  Rxyz=2.66422 0.129689 -0.632925 
+Frame: 2711.9  9278654=  Txyz=-0.0421057 -0.0676195 0.245036  Rxyz=2.6634 0.1288 -0.632455 
+Frame: 2712.9  9278654=  Txyz=-0.0428216 -0.0675884 0.244817  Rxyz=2.66196 0.126107 -0.629492 
+Frame: 2713.9  9278654=  Txyz=-0.0433083 -0.0675428 0.244818  Rxyz=2.65928 0.124909 -0.630495 
+Frame: 2714.9  9278654=  Txyz=-0.0437205 -0.0675246 0.245462  Rxyz=2.65494 0.12359 -0.633395 
+Frame: 2715.9  9278654=  Txyz=-0.0441478 -0.0672255 0.245859  Rxyz=2.65339 0.122906 -0.632508 
+Frame: 2716.9  9278654=  Txyz=-0.0444898 -0.0668066 0.246339  Rxyz=2.64854 0.121531 -0.63258 
+Frame: 2717.9  9278654=  Txyz=-0.0447145 -0.0664132 0.247118  Rxyz=2.64097 0.120966 -0.634476 
+Frame: 2718.91  9278654=  Txyz=-0.0446455 -0.0662906 0.248389  Rxyz=2.63493 0.124773 -0.637052 
+Frame: 2719.91  9278654=  Txyz=-0.0450309 -0.0661824 0.24948  Rxyz=2.63025 0.126999 -0.635066 
+Frame: 2720.91  9278654=  Txyz=-0.0458163 -0.0659291 0.250015  Rxyz=2.62753 0.125554 -0.632969 
+Frame: 2721.91  9278654=  Txyz=-0.0466888 -0.0658589 0.250836  Rxyz=2.6277 0.124617 -0.634603 
+Frame: 2722.91  9278654=  Txyz=-0.0474132 -0.0656604 0.251147  Rxyz=2.62307 0.122963 -0.634458 
+Frame: 2723.91  9278654=  Txyz=-0.0481546 -0.0655502 0.251625  Rxyz=2.62048 0.122514 -0.632825 
+Frame: 2724.91  9278654=  Txyz=-0.0490658 -0.0654687 0.2519  Rxyz=2.62116 0.120491 -0.629903 
+Frame: 2725.91  9278654=  Txyz=-0.0500073 -0.0654796 0.252314  Rxyz=2.62075 0.119266 -0.631526 
+Frame: 2726.91  9278654=  Txyz=-0.0506477 -0.0652027 0.25153  Rxyz=2.61922 0.115124 -0.630558 
+Frame: 2727.91  9278654=  Txyz=-0.0510721 -0.0650629 0.250996  Rxyz=2.61774 0.113637 -0.627979 
+Frame: 2728.91  9278654=  Txyz=-0.0515653 -0.0651108 0.25129  Rxyz=2.61649 0.113227 -0.629249 
+Frame: 2729.91  9278654=  Txyz=-0.052014 -0.0650623 0.251383  Rxyz=2.61568 0.113212 -0.632283 
+Frame: 2730.91  9278654=  Txyz=-0.0523174 -0.0648517 0.251102  Rxyz=2.61417 0.110862 -0.630975 
+Frame: 2731.91  9278654=  Txyz=-0.0525797 -0.0646283 0.251144  Rxyz=2.6112 0.110838 -0.632048 
+Frame: 2732.91  9278654=  Txyz=-0.0529104 -0.0643646 0.251508  Rxyz=2.60807 0.110233 -0.634002 
+Frame: 2733.91  9278654=  Txyz=-0.0535685 -0.0640416 0.252248  Rxyz=2.60316 0.108582 -0.634632 
+Frame: 2734.91  9278654=  Txyz=-0.0544283 -0.0635946 0.252818  Rxyz=2.60188 0.104648 -0.635405 
+Frame: 2735.91  9278654=  Txyz=-0.0552562 -0.0629205 0.253194  Rxyz=2.59643 0.099686 -0.636008 
+Frame: 2736.91  9278654=  Txyz=-0.0559554 -0.0619822 0.253364  Rxyz=2.59332 0.0944439 -0.633842 
+Frame: 2737.91  9278654=  Txyz=-0.0568549 -0.0610333 0.254237  Rxyz=2.58711 0.0896227 -0.63362 
+Frame: 2738.91  9278654=  Txyz=-0.0577933 -0.0600036 0.255243  Rxyz=2.57998 0.0854863 -0.634399 
+Frame: 2739.91  9278654=  Txyz=-0.0586517 -0.0590054 0.256091  Rxyz=2.57432 0.082985 -0.634676 
+Frame: 2740.91  9278654=  Txyz=-0.0596276 -0.0581058 0.257077  Rxyz=2.56795 0.0802967 -0.632458 
+Frame: 2741.91  9278654=  Txyz=-0.0606718 -0.0570869 0.25773  Rxyz=2.56327 0.0750766 -0.631899 
+Frame: 2742.91  9278654=  Txyz=-0.0617664 -0.0562096 0.258315  Rxyz=2.56046 0.0708967 -0.631094 
+Frame: 2743.91  9278654=  Txyz=-0.0625901 -0.0554188 0.258873  Rxyz=2.5563 0.069923 -0.632728 
+Frame: 2744.91  9278654=  Txyz=-0.0630693 -0.0546492 0.259199  Rxyz=2.55217 0.0700101 -0.629566 
+Frame: 2745.91  9278654=  Txyz=-0.0634731 -0.0538623 0.259542  Rxyz=2.54775 0.0680597 -0.625872 
+Frame: 2746.91  9278654=  Txyz=-0.0639288 -0.0530771 0.260721  Rxyz=2.54017 0.0673592 -0.625716 
+Frame: 2747.91  9278654=  Txyz=-0.0642307 -0.0521563 0.261677  Rxyz=2.53065 0.0648503 -0.623747 
+Frame: 2748.92  9278654=  Txyz=-0.0644791 -0.0514704 0.263194  Rxyz=2.52568 0.0662919 -0.623952 
+Frame: 2749.92  9278654=  Txyz=-0.0644538 -0.0506669 0.263811  Rxyz=2.5196 0.0673002 -0.620672 
+Frame: 2750.92  9278654=  Txyz=-0.0643499 -0.050068 0.264914  Rxyz=2.51551 0.0673909 -0.618292 
+Frame: 2751.92  9278654=  Txyz=-0.0641702 -0.0494319 0.265833  Rxyz=2.5067 0.0681223 -0.618871 
+Frame: 2752.92  9278654=  Txyz=-0.0640257 -0.0488286 0.266997  Rxyz=2.49848 0.0692235 -0.618502 
+Frame: 2753.92  9278654=  Txyz=-0.0639275 -0.0482511 0.2679  Rxyz=2.4925 0.0696906 -0.618625 
+Frame: 2754.92  9278654=  Txyz=-0.0638821 -0.0476373 0.26865  Rxyz=2.48691 0.0673539 -0.618751 
+Frame: 2755.92  9278654=  Txyz=-0.0640051 -0.0471593 0.270233  Rxyz=2.47792 0.0692541 -0.622919 
+Frame: 2756.92  9278654=  Txyz=-0.0641453 -0.0464934 0.271078  Rxyz=2.47164 0.0667558 -0.625916 
+Frame: 2757.92  9278654=  Txyz=-0.0639994 -0.0458035 0.271726  Rxyz=2.46603 0.0651777 -0.625269 
+Frame: 2758.92  9278654=  Txyz=-0.0640131 -0.0454597 0.273316  Rxyz=2.46048 0.0665047 -0.62891 
+Frame: 2759.92  9278654=  Txyz=-0.063794 -0.0449667 0.273573  Rxyz=2.45236 0.0649295 -0.628039 
+Frame: 2760.92  9278654=  Txyz=-0.06334 -0.0447936 0.275372  Rxyz=2.44565 0.0671441 -0.630233 
+Frame: 2761.92  9278654=  Txyz=-0.0626052 -0.0443773 0.276153  Rxyz=2.43421 0.0725211 -0.629969 
+Frame: 2762.92  9278654=  Txyz=-0.0622628 -0.0436828 0.276241  Rxyz=2.42532 0.0722191 -0.624984 
+Frame: 2763.92  9278654=  Txyz=-0.0625966 -0.0431142 0.278012  Rxyz=2.41562 0.07186 -0.627518 
+Frame: 2764.92  9278654=  Txyz=-0.0631308 -0.042313 0.278884  Rxyz=2.40586 0.0685577 -0.625333 
+Frame: 2765.92  9278654=  Txyz=-0.0636869 -0.0415684 0.279611  Rxyz=2.39758 0.064998 -0.624271 
+Frame: 2766.92  9278654=  Txyz=-0.0644765 -0.0409401 0.281364  Rxyz=2.39162 0.0640068 -0.626246 
+Frame: 2767.92  9278654=  Txyz=-0.0654621 -0.0400448 0.282806  Rxyz=2.38249 0.0559795 -0.63007 
+Frame: 2768.92  9278654=  Txyz=-0.0661262 -0.038914 0.282881  Rxyz=2.37606 0.0489067 -0.629623 
+Frame: 2769.92  9278654=  Txyz=-0.0665574 -0.037938 0.284127  Rxyz=2.36684 0.0448852 -0.635957 
+Frame: 2770.92  9278654=  Txyz=-0.0666583 -0.0368286 0.284262  Rxyz=2.3609 0.0413944 -0.634029 
+Frame: 2771.92  9278654=  Txyz=-0.0672628 -0.0358175 0.286297  Rxyz=2.35243 0.0358218 -0.636404 
+Frame: 2772.92  9278654=  Txyz=-0.0680009 -0.0346376 0.287409  Rxyz=2.341 0.0304864 -0.639324 
+Frame: 2773.92  9278654=  Txyz=-0.0689859 -0.0336334 0.288907  Rxyz=2.32969 0.0266251 -0.638931 
+Frame: 2774.92  9278654=  Txyz=-0.0699919 -0.0326593 0.289104  Rxyz=2.32606 0.021759 -0.633569 
+Frame: 2775.92  9278654=  Txyz=-0.0714181 -0.032187 0.291049  Rxyz=2.31875 0.0197924 -0.634632 
+Frame: 2776.92  9278654=  Txyz=-0.0726822 -0.031877 0.291846  Rxyz=2.31568 0.0171626 -0.632184 
+Frame: 2777.92  9278654=  Txyz=-0.073916 -0.0314477 0.29127  Rxyz=2.31222 0.0115699 -0.619149 
+Frame: 2778.93  9278654=  Txyz=-0.0752802 -0.0308447 0.29192  Rxyz=2.30682 0.0051246 -0.614964 
+Frame: 2779.93  9278654=  Txyz=-0.0763762 -0.0298824 0.291455  Rxyz=2.29761 -0.00271155 -0.606947 
+Frame: 2780.93  9278654=  Txyz=-0.0773847 -0.0289982 0.292417  Rxyz=2.2906 -0.00509334 -0.603938 
+Frame: 2781.93  9278654=  Txyz=-0.0779578 -0.0280786 0.292812  Rxyz=2.28898 -0.00817564 -0.598444 
+Frame: 2782.93  9278654=  Txyz=-0.0782614 -0.0272565 0.294221  Rxyz=2.27802 -0.00971432 -0.596346 
+Frame: 2783.93  9278654=  Txyz=-0.0783757 -0.0266533 0.296294  Rxyz=2.26974 -0.0110629 -0.600381 
+Frame: 2784.93  9278654=  Txyz=-0.0782473 -0.02629 0.298367  Rxyz=2.26436 -0.011398 -0.604406 
+Frame: 2785.93  9278654=  Txyz=-0.0777069 -0.0259461 0.299753  Rxyz=2.25898 -0.0128056 -0.605597 
+Frame: 2786.93  9278654=  Txyz=-0.0771635 -0.0255893 0.302345  Rxyz=2.2481 -0.0129946 -0.613475 
+Frame: 2787.93  9278654=  Txyz=-0.076418 -0.0252247 0.303682  Rxyz=2.24319 -0.0130977 -0.615482 
+Frame: 2788.93  9278654=  Txyz=-0.0756384 -0.024914 0.304918  Rxyz=2.23703 -0.0146814 -0.620053 
+Frame: 2789.93  9278654=  Txyz=-0.0749492 -0.0247768 0.305649  Rxyz=2.23206 -0.0150439 -0.622692 
+Frame: 2790.93  9278654=  Txyz=-0.0743764 -0.0246793 0.306121  Rxyz=2.22279 -0.0170159 -0.626435 
+Frame: 2791.93  9278654=  Txyz=-0.0738574 -0.0247831 0.307289  Rxyz=2.2204 -0.0204062 -0.629358 
+Frame: 2792.93  9278654=  Txyz=-0.0730575 -0.0250301 0.308627  Rxyz=2.21273 -0.020785 -0.630083 
+Frame: 2793.93  9278654=  Txyz=-0.0718533 -0.0254113 0.308666  Rxyz=2.20963 -0.0166521 -0.628397 
+Frame: 2794.93  9278654=  Txyz=-0.0709004 -0.0256269 0.30956  Rxyz=2.20386 -0.0133324 -0.632683 
+Frame: 2795.93  9278654=  Txyz=-0.0701818 -0.0255635 0.309403  Rxyz=2.20135 -0.0140827 -0.630695 
+Frame: 2796.93  9278654=  Txyz=-0.0697586 -0.0253933 0.310379  Rxyz=2.19789 -0.0140182 -0.635117 
+Frame: 2797.93  9278654=  Txyz=-0.0693575 -0.0250065 0.310319  Rxyz=2.19044 -0.0169634 -0.634947 
+Frame: 2798.93  9278654=  Txyz=-0.0692195 -0.0244737 0.311296  Rxyz=2.18382 -0.0210162 -0.63927 
+Frame: 2799.93  9278654=  Txyz=-0.0690152 -0.0237747 0.312156  Rxyz=2.1825 -0.0247563 -0.637812 
+Frame: 2800.93  9278654=  Txyz=-0.0686739 -0.0228627 0.31324  Rxyz=2.17038 -0.0309507 -0.642766 
+Frame: 2801.93  9278654=  Txyz=-0.0681648 -0.0220105 0.313599  Rxyz=2.16927 -0.0361482 -0.643436 
+Frame: 2802.93
+Frame: 2803.93
+Frame: 2804.93
+Frame: 2805.93
+Frame: 2806.93
+Frame: 2807.93
+Frame: 2808.94
+Frame: 2809.94
+Frame: 2810.94
+Frame: 2811.94
+Frame: 2812.94
+Frame: 2813.94
+Frame: 2814.94
+Frame: 2815.94
+Frame: 2816.94
+Frame: 2817.94
+Frame: 2818.94
+Frame: 2819.94
+Frame: 2820.94
+Frame: 2821.94
+Frame: 2822.94
+Frame: 2823.94
+Frame: 2824.94
+Frame: 2825.94
+Frame: 2826.94
+Frame: 2827.94
+Frame: 2828.94
+Frame: 2829.94
+Frame: 2830.94
+Frame: 2831.94
+Frame: 2832.94
+Frame: 2833.94
+Frame: 2834.94
+Frame: 2835.94
+Frame: 2836.94
+Frame: 2837.94
+Frame: 2838.95
+Frame: 2839.95
+Frame: 2840.95
+Frame: 2841.95
+Frame: 2842.95
+Frame: 2843.95
+Frame: 2844.95
+Frame: 2845.95
+Frame: 2846.95
+Frame: 2847.95
+Frame: 2848.95
+Frame: 2849.95
+Frame: 2850.95
+Frame: 2851.95
+Frame: 2852.95
+Frame: 2853.95
+Frame: 2854.95
+Frame: 2855.95
+Frame: 2856.95
+Frame: 2857.95
+Frame: 2858.95
+Frame: 2859.95
+Frame: 2860.95
+Frame: 2861.95
+Frame: 2862.95
+Frame: 2863.95
+Frame: 2864.95
+Frame: 2865.95
+Frame: 2866.95
+Frame: 2867.95
+Frame: 2868.96
+Frame: 2869.96
+Frame: 2870.96
+Frame: 2871.96
+Frame: 2872.96
+Frame: 2873.96
+Frame: 2874.96
+Frame: 2875.96
+Frame: 2876.96
+Frame: 2877.96
+Frame: 2878.96
+Frame: 2879.96
+Frame: 2880.96
+Frame: 2881.96
+Frame: 2882.96
+Frame: 2883.96
+Frame: 2884.96
+Frame: 2885.96
+Frame: 2886.96
+Frame: 2887.96
+Frame: 2888.96
+Frame: 2889.96
+Frame: 2890.96
+Frame: 2891.96
+Frame: 2892.96
+Frame: 2893.96
+Frame: 2894.96
